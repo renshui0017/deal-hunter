@@ -1,10 +1,6 @@
 name: Deal Hunter Collect
 
 on:
-  schedule:
-    # Every 2 hours, UTC. GitHub Actions runs this on GitHub's own runners:
-    # no machine to keep awake, no card, free for public repos.
-    - cron: "0 */2 * * *"
   workflow_dispatch:
   push:
     paths:
