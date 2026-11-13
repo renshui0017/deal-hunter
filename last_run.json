@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-13T18:45:22Z",
+  "run_at": "2026-11-13T20:43:10Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -55,43 +55,43 @@
   ],
   "link_checks": [
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "appsumo-black-friday-2026",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "other-free-nodes-zhuhaiuk",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "mexc-daily-checkin-s2",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "bydfi-fiat-fiesta-nov26",
       "http": 200
     },
     {
-      "id": "perplexity-edu-pro-half",
+      "id": "bitunix-new-user-rewards",
       "http": 200
     },
     {
-      "id": "mexc-trading-carnival-nov26",
+      "id": "uupay-virtual-card",
       "http": 200
     },
     {
-      "id": "bingx-winter-deposit-nov26",
+      "id": "icbc-asia-supermarket-15",
       "http": 200
     },
     {
-      "id": "grass-stage2-usdc-claim",
+      "id": "midjourney-annual-20off",
       "http": 200
     },
     {
-      "id": "dbs-treasures-hk-53800",
+      "id": "asentum-testnet-xp",
       "http": 200
     },
     {
-      "id": "railway-free-vm-ssh",
+      "id": "monolith-swan-holding",
       "http": 200
     }
   ],
