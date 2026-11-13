@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-13T18:15:00Z",
+  "run_at": "2026-11-13T18:45:22Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -55,43 +55,43 @@
   ],
   "link_checks": [
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "bingx-card-spending-nov26",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "standx-dusd-claim",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
+      "id": "mexc-global-card",
       "http": 200
     },
     {
-      "id": "ai-ant-ling-32-flash-free",
+      "id": "scb-hk-priority-private",
       "http": 200
     },
     {
-      "id": "sofi-checking-400",
-      "http": 403
-    },
-    {
-      "id": "software-firefox-vpn-unlimited",
+      "id": "perplexity-edu-pro-half",
       "http": 200
     },
     {
-      "id": "bybit-card-welcome-120",
-      "http": 403
-    },
-    {
-      "id": "azure-for-students-100",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     },
     {
-      "id": "aster-stage6-claim",
+      "id": "bingx-winter-deposit-nov26",
       "http": 200
     },
     {
-      "id": "hsbc-premier-3000",
+      "id": "grass-stage2-usdc-claim",
+      "http": 200
+    },
+    {
+      "id": "dbs-treasures-hk-53800",
+      "http": 200
+    },
+    {
+      "id": "railway-free-vm-ssh",
       "http": 200
     }
   ],
