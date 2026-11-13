@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-13T15:43:04Z",
+  "run_at": "2026-11-13T15:44:46Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -38,11 +38,6 @@
       "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
     },
     {
-      "name": "OpenAI API 定价页",
-      "url": "https://openai.com/api/pricing/",
-      "note": "HTTP 状态变化：200 → 403"
-    },
-    {
       "name": "GitHub Student Pack",
       "url": "https://education.github.com/pack",
       "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
@@ -60,44 +55,44 @@
   ],
   "link_checks": [
     {
-      "id": "google-ai-pro-student-year",
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "github-student-pack",
-      "http": 200
-    },
-    {
-      "id": "ai-qiniu-conatus-2026",
-      "http": 200
-    },
-    {
-      "id": "chase-total-checking-400",
-      "http": 200
-    },
-    {
-      "id": "oracle-always-free",
-      "http": 200
-    },
-    {
-      "id": "ai-gemini-4-hydrogen-free",
-      "http": 200
-    },
-    {
-      "id": "keybank-select-500",
-      "http": 200
-    },
-    {
-      "id": "aws-free-plan-200",
-      "http": 200
-    },
-    {
-      "id": "ai-ant-ling-32-flash-free",
-      "http": 200
-    },
-    {
-      "id": "sofi-checking-400",
+      "id": "bybit-card-welcome-120",
       "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
+      "http": 200
+    },
+    {
+      "id": "aster-stage6-claim",
+      "http": 200
+    },
+    {
+      "id": "hsbc-premier-3000",
+      "http": 200
+    },
+    {
+      "id": "bingx-card-spending-nov26",
+      "http": 200
+    },
+    {
+      "id": "standx-dusd-claim",
+      "http": 200
+    },
+    {
+      "id": "mexc-global-card",
+      "http": 200
+    },
+    {
+      "id": "scb-hk-priority-private",
+      "http": 200
+    },
+    {
+      "id": "perplexity-edu-pro-half",
+      "http": 200
     }
   ],
   "total_deals": 54

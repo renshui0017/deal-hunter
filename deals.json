@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:43:04Z",
+  "updated_at": "2026-11-13T15:44:46Z",
   "deals": [
     {
       "category": "ai",
@@ -319,7 +319,8 @@
       "value": "约 $9.99/月（对照付费 Mozilla VPN）",
       "value_score": 75,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "ucard",
@@ -347,7 +348,8 @@
       "value": "最高 120 USDT 迎新返现（官方 10% 上限 110 USDT + 约 10 USDT 存款奖励）；日常 2%–10% 分级返现",
       "value_score": 75,
       "verified_at": "2026-11-13",
-      "official_link_verified": true
+      "official_link_verified": true,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "vps",
@@ -374,7 +376,8 @@
       "value": "$100 云额度 + 免费服务",
       "value_score": 75,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "crypto",
@@ -401,7 +404,8 @@
       "value": "按个人积分分配，6400 万 ASTER 总池",
       "value_score": 70,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "bank",
@@ -428,7 +432,8 @@
       "value": "最高 $3000 现金",
       "value_score": 70,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "crypto",
@@ -456,7 +461,8 @@
       "value": "最高 $245/人",
       "value_score": 65,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "crypto",
@@ -483,7 +489,8 @@
       "value": "按个人预存、主网交易量、做市与推荐贡献分配 DUSD",
       "value_score": 65,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "ucard",
@@ -510,7 +517,8 @@
       "value": "标准档约 4% 返现，最高 10% USDT 返现；USDT 理财最高 7% APR",
       "value_score": 65,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "bank",
@@ -537,7 +545,8 @@
       "value": "HK$27000–58888 现金或里数",
       "value_score": 65,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "ai",
@@ -564,7 +573,8 @@
       "value": "约 $10/月（原价 $20/月），首月免费",
       "value_score": 65,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 15:44 UTC"
     },
     {
       "category": "crypto",
