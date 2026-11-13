@@ -1,6 +1,62 @@
 {
-  "updated_at": "2026-11-13T14:03:10Z",
+  "updated_at": "2026-11-13T22:10:00+08:00",
   "deals": [
+    {
+      "category": "ai",
+      "conditions": "美国在读大学生，年满 18 岁；SheerID 学生验证；2026-12-31 前领取；需提前绑定支付方式，到期后自动按 $19.99/月扣费，需及时取消；非美国学生可领 AI Plus（140+ 市场，加拿大除外）",
+      "cost_type": "免费试用",
+      "end": "2026-12-31",
+      "id": "google-ai-pro-student-year",
+      "name": "Google AI Pro 学生免费一年（Gemini）",
+      "official_link": "https://getstudentperks.com/guides/student-discounts-on-ai-tools",
+      "regions": [
+        "美国（AI Pro）",
+        "全球 140+ 市场（AI Plus，加拿大除外）"
+      ],
+      "risk": "需绑定支付方式，到期自动续费 $19.99/月，务必设提醒取消；需 SheerID 在读验证，假冒学生身份有封号风险；2025 年已领过免费试用的学生也可再次领取 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "StudentPerks AI 学生优惠指南 + The AI Rankings（2026-11-13 更新）",
+      "source_link": "https://theairankings.com/best-ai-for-students/",
+      "start": "2026-08-19",
+      "status": "active",
+      "steps": [
+        "打开 Google Gemini 学生优惠页",
+        "用学校邮箱通过 SheerID 验证",
+        "领取 12 个月免费 AI Pro",
+        "到期前取消避免自动扣费"
+      ],
+      "summary": "美国合资格大学生免费获得 12 个月 Google AI Pro（含 Gemini 高级版与 5TB 存储），价值约 $240",
+      "value": "约 $240（$19.99/月 × 12 个月）",
+      "value_score": 90,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "software",
+      "conditions": "年满 13 岁在读学生（学位/文凭课程）；GitHub Education 验证；学生身份每 2 年重新验证；Azure $100 需年满 18 岁；GitHub 侧无需绑卡",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "github-student-pack",
+      "name": "GitHub Student Developer Pack（学生免费开发者大礼包）",
+      "official_link": "https://education.github.com/pack",
+      "regions": [
+        "全球"
+      ],
+      "risk": "学生身份过期后权益关闭；2026 年 DigitalOcean 额度与 Canva 已退出礼包；Copilot 学生版为自动选模型版，非 Copilot Pro；冒用学生身份会被封号",
+      "source": "Grabaicredits GitHub 学生包指南（2026-10-17 验证）+ Reconscribe（2026-11-10 复核）",
+      "source_link": "https://grabaicredits.com/en/deals/github-student-developer-pack",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "打开 education.github.com/pack",
+        "用学校邮箱申请学生验证",
+        "验证通过后逐项领取 Copilot、JetBrains、Azure 等权益"
+      ],
+      "summary": "验证学生身份免费获得 GitHub Pro、Copilot Student、Pro 级 Codespaces、$100 Azure 额度、JetBrains 全套 IDE、免费域名等 80+ 开发者工具",
+      "value": "Copilot 学生版约 $120/年 + JetBrains 约 $249/年 + $100 Azure 额度，总价值超 $500/年",
+      "value_score": 90,
+      "verified_at": "2026-11-13",
+      "official_link_verified": true
+    },
     {
       "category": "ai",
       "conditions": "七牛云账号 + 实名认证；10 亿档需任意单笔充值 >100 元且已到账（多笔不累计）",
@@ -27,7 +83,62 @@
       "value": "每日 1 亿 Token（按市价折算约值数十元/日）",
       "value_score": 88,
       "verified_at": "2026-11-13",
-      "last_checked": "2026-11-13 14:03 UTC"
+      "official_link_verified": true
+    },
+    {
+      "category": "bank",
+      "conditions": "新客户；2027-01-27 前开户；优惠券注册后 90 天内直接存款累计 ≥$1000；奖励 15 天内到账",
+      "cost_type": "需要充值",
+      "end": "2027-01-27",
+      "id": "chase-total-checking-400",
+      "name": "Chase Total Checking 开户奖励 $400",
+      "official_link": "https://www.bankrate.com/banking/best-bank-account-bonuses-and-promotions/",
+      "regions": [
+        "美国（除 AK、HI、PR 居民）"
+      ],
+      "risk": "需美国身份与 SSN 才能开户；奖励需报税（1099-INT）；注意账户月费规则 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bankrate 11月银行奖励榜 + MoneyCrashers",
+      "source_link": "https://www.moneycrashers.com/best-new-bank-account-promotions-offers/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在线申请 Chase Total Checking",
+        "注册优惠券",
+        "90 天内设置直接存款累计 $1000",
+        "奖励自动到账"
+      ],
+      "summary": "开立 Chase Total Checking 并在 90 天内完成 $1000 直接存款，得 $400 现金奖励",
+      "value": "$400 现金",
+      "value_score": 85,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "vps",
+      "conditions": "注册需提供信用卡/借记卡做身份验证（仅验证，不扣费）；免费额度内使用不收费；注意 2026 年 6 月后 Arm A1 免费配额已减半",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "oracle-always-free",
+      "name": "Oracle Cloud Always Free（永久免费云服务器）",
+      "official_link": "https://www.lilachbullock.com/free-vps-providers/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "需绑卡验证（无卡用户无法注册）；超免费额度会收费，务必设账单提醒；免费区容量紧张时可能开不出实例；无卡用户可改用 Railway 等免卡方案 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Lilach Bullock 免费VPS盘点（2026-11，引用各厂商官网）",
+      "source_link": "https://www.lilachbullock.com/free-vps-providers/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 Oracle Cloud 注册账号并完成卡验证",
+        "创建 Always Free 虚拟机",
+        "设置账单提醒避免超额"
+      ],
+      "summary": "Oracle 永久免费层：AMD 与 Arm 免费虚拟机及数据库，无到期日；另有 30 天免费试用额度",
+      "value": "免费虚拟机（Arm Ampere A1 等）长期使用，价值约 $10–30/月",
+      "value_score": 85,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
     },
     {
       "category": "ai",
@@ -54,7 +165,61 @@
       "value": "免费调用（速率受限）",
       "value_score": 82,
       "verified_at": "2026-11-13",
-      "last_checked": "2026-11-13 14:03 UTC"
+      "official_link_verified": true
+    },
+    {
+      "category": "bank",
+      "conditions": "2026-12-11 前在线开户；90 天内合资格直接存款 ≥$5000；月费 $25（每月直接存款 $3000+ 或 KeyBank 账户总余额 $15000+ 可免）；仅限 15 个州居民（AK、CO、CT、ID、IN、ME、MA、MI、NY、OH、OR、PA、UT、VT、WA）",
+      "cost_type": "需要充值",
+      "end": "2026-12-11",
+      "id": "keybank-select-500",
+      "name": "KeyBank Key Select Checking 开户奖励 $500",
+      "official_link": "https://wallethub.com/best-bank-account-bonuses",
+      "regions": [
+        "美国（15 个州）"
+      ],
+      "risk": "仅限 15 个州居民；月费 $25 需达标豁免；奖励需报税；需美国身份与 SSN 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "WalletHub 11月银行奖励榜 + MoneyCrashers",
+      "source_link": "https://www.moneycrashers.com/best-new-bank-account-promotions-offers/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 KeyBank 官网在线开立 Key Select Checking",
+        "90 天内完成 $5000 直接存款",
+        "奖励自动到账"
+      ],
+      "summary": "开立 Key Select Checking 并在 90 天内完成 $5000 合资格直接存款，得 $500 奖励",
+      "value": "$500 现金",
+      "value_score": 80,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "vps",
+      "conditions": "新账号；注册即得 $100，完成指定服务探索再得 $100；账号在开户 6 个月后或额度用完时自动关闭（以先到为准）",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "aws-free-plan-200",
+      "name": "AWS 新账号免费计划（最高 $200 额度，6 个月）",
+      "official_link": "https://www.lilachbullock.com/free-vps-providers/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "免费计划只有 6 个月，到期账号自动关闭，非永久免费；额度用完即停；注意不要在免费账号里放重要生产数据 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Lilach Bullock 免费VPS盘点（2026-11，引用 AWS 免费层页面）",
+      "source_link": "https://www.lilachbullock.com/free-vps-providers/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "注册新 AWS 账号",
+        "领取 $100 初始额度",
+        "按指引探索服务解锁额外 $100"
+      ],
+      "summary": "新 AWS 账号立得 $100 额度，探索关键服务可再赚 $100，6 个月内最高 $200",
+      "value": "最高 $200 云额度",
+      "value_score": 80,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
     },
     {
       "category": "ai",
@@ -81,7 +246,34 @@
       "value": "免费调用两周（原价约 $0.30 输入 / $0.90 输出 每百万 Token）",
       "value_score": 78,
       "verified_at": "2026-11-13",
-      "last_checked": "2026-11-13 14:03 UTC"
+      "official_link_verified": true
+    },
+    {
+      "category": "bank",
+      "conditions": "新客户；完成合格活动（直接存款等）；支票余额 0.50% APY；无月费、无最低存款要求",
+      "cost_type": "需要充值",
+      "end": "2026-12-31",
+      "id": "sofi-checking-400",
+      "name": "SoFi Checking and Savings 开户奖励最高 $400",
+      "official_link": "https://www.depositaccounts.com/savings/best-savings-checking-account-bonus-offers/",
+      "regions": [
+        "美国"
+      ],
+      "risk": "具体达标活动分档（$50 或 $400），以 SoFi 官网条款为准；奖励需报税；需美国身份与 SSN 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "DepositAccounts 11月银行奖励榜 + WalletHub",
+      "source_link": "https://wallethub.com/best-bank-account-bonuses",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 SoFi 官网/App 开立 Checking and Savings",
+        "完成合格活动",
+        "奖励自动到账"
+      ],
+      "summary": "开立 SoFi 支票+储蓄账户并完成合格活动，最高得 $400 奖励，无月费",
+      "value": "最高 $400 现金（另有 $50 档）",
+      "value_score": 78,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
     },
     {
       "category": "software",
@@ -103,7 +295,7 @@
         "等约 29 个国家和地区",
         "中国大陆不在官方名单"
       ],
-      "risk": "仅保护 Firefox 浏览器内流量，不覆盖全设备；中国大陆不在官方支持名单；2 月 1 日起恢复 50GB/月上限；出口为数据中心 IP，非住宅 IP",
+      "risk": "仅保护 Firefox 浏览器内流量，不覆盖全设备；中国大陆不在官方支持名单；2 月 1 日起恢复 50GB/月上限；出口为数据中心 IP，非住宅 IP 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
       "source": "Mozilla 官方博客（经 BetaNews 等多家媒体报道）",
       "source_link": "https://betanews.com/article/firefox-free-vpn-50gb-cap-removed/",
       "start": "2026-11-10",
@@ -117,7 +309,414 @@
       "value": "约 $9.99/月（对照付费 Mozilla VPN）",
       "value_score": 75,
       "verified_at": "2026-11-13",
-      "last_checked": "2026-11-13 14:03 UTC"
+      "official_link_verified": false
+    },
+    {
+      "category": "ucard",
+      "conditions": "新开卡用户；开卡后 30 天内消费；需先申请卡再外部入金，首次转入建议 ≥100 USDT；返现以 BIT 代币发放，约 4 天到账；注册与开卡邀请码需分别填写（如有）",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "bybit-card-welcome-120",
+      "name": "Bybit Card 新人迎新（首 30 天 10% 返现，最高 120 USDT）",
+      "official_link": "https://www.bybit.com/en/wiki/article/best-virtual-crypto-card-get-one-instantly/",
+      "regions": [
+        "亚太地区（含台湾，台湾可用身份证 KYC）；中国大陆不可用"
+      ],
+      "risk": "返现以 BIT 代币发放，有价格波动；约 1% 货币转换点差；120 USDT 中的约 10 USDT 为 APAC 存款奖励，需在 App 内核实；中国大陆居民无法使用",
+      "source": "Bybit 官方 Wiki + 湾区阿瑟 Bybit Card 指南",
+      "source_link": "https://bayase.com/en/post/bybit-card-guide/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "用邀请码注册 Bybit 并完成 KYC（如有邀请码）",
+        "用开卡码申请 Bybit Card（如有开卡码）",
+        "外部入金 ≥100 USDT 后消费",
+        "开启自动返现，30 天内消费享 10% 返现"
+      ],
+      "summary": "Bybit 万事达虚拟卡新用户首 30 天餐饮、旅行、时尚等消费 10% 返现，上限 120 USDT，零外汇交易费",
+      "value": "最高 120 USDT 迎新返现（官方 10% 上限 110 USDT + 约 10 USDT 存款奖励）；日常 2%–10% 分级返现",
+      "value_score": 75,
+      "verified_at": "2026-11-13",
+      "official_link_verified": true
+    },
+    {
+      "category": "vps",
+      "conditions": "需学校邮箱验证学生身份；无需信用卡；额度 12 个月有效，在读期间可续；每人仅限一个订阅（与 GitHub 学生包内的 $100 为同一额度，不可重复领取）",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "azure-for-students-100",
+      "name": "Azure for Students（$100 额度 + 免费服务，无需信用卡）",
+      "official_link": "https://www.masaischool.com/resources/tools/free-cloud-credits-for-students",
+      "regions": [
+        "全球"
+      ],
+      "risk": "额度 12 个月后过期；超额度使用会收费，建议设预算提醒；与 GitHub 学生包的 Azure 额度为同一份，不可叠加 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Masai School 学生免费云额度指南（2026-11-03 核查）",
+      "source_link": "https://www.masaischool.com/resources/tools/free-cloud-credits-for-students",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "用学校邮箱注册 Azure for Students",
+        "完成学生验证",
+        "领取 $100 额度并使用免费服务"
+      ],
+      "summary": "验证学生身份得 $100 Azure 额度（12 个月）及 25+ 免费服务，无需信用卡",
+      "value": "$100 云额度 + 免费服务",
+      "value_score": 75,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "Stage 6 参与者且积分 ≥10000；选择了全额归属（full vesting）选项的用户方可领取，该选择不可更改",
+      "cost_type": "真正免费",
+      "end": "2026-11-28",
+      "id": "aster-stage6-claim",
+      "name": "Aster Stage 6 空投领取（ASTER）",
+      "official_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "截止日期两来源冲突：Bitrue 引官方页称 11-28 12:00 UTC，Bittime 称 12-04；务必以 Aster 官方分配页为准；只用官方链接领取，警惕假冒领取页；领取需付链上 Gas 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bitrue 11月空投日历（引 Aster 官方分配页）",
+      "source_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "start": "2026-10-28",
+      "status": "active",
+      "steps": [
+        "打开 Aster 官方空投分配页查询资格",
+        "连接符合条件的钱包",
+        "在截止前完成领取"
+      ],
+      "summary": "Aster 第六季空投开放领取，共分发 6400 万 ASTER（占供应量 0.8%），面向积分 ≥10000 的参与者",
+      "value": "按个人积分分配，6400 万 ASTER 总池",
+      "value_score": 70,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "bank",
+      "conditions": "2026-12-31 前开户；开户后 20 天内存入至少 $1,000,000；月费 $50（余额 $10 万或月直接存款 $5000 可免）",
+      "cost_type": "需要充值",
+      "end": "2026-12-31",
+      "id": "hsbc-premier-3000",
+      "name": "HSBC Premier 支票账户开户奖励最高 $3000",
+      "official_link": "https://wallethub.com/best-bank-account-bonuses",
+      "regions": [
+        "美国"
+      ],
+      "risk": "门槛极高（$100 万入金），仅适合高净值用户；月费 $50；奖励需报税；需美国身份与 SSN 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "WalletHub 11月银行奖励榜 + CreditDonkey",
+      "source_link": "https://www.creditdonkey.com/bank-promotions.html",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 HSBC 官网申请 Premier 支票账户",
+        "开户后 20 天内存入 $100 万",
+        "保持账户状态等待奖励发放"
+      ],
+      "summary": "开立 HSBC Premier 支票账户并在 20 天内存入 $100 万，最高得 $3000 奖励；无外汇交易费",
+      "value": "最高 $3000 现金",
+      "value_score": 70,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "需在 BingX 活动页报名；持有 BingX Card（虚拟卡）并消费；完成首存与首次合约交易任务；每项奖励数量有限",
+      "cost_type": "需要交易量",
+      "end": "2026-12-01",
+      "id": "bingx-card-spending-nov26",
+      "name": "BingX Card 消费奖励活动",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（BingX Card 可用地区）"
+      ],
+      "risk": "奖励数量有限；合约交易有爆仓风险；截止时间为 JST 2026-12-01 00:59 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 BingX 活动页报名",
+        "开通并使用 BingX Card 消费",
+        "完成首存与首次合约交易任务",
+        "奖励自动到账"
+      ],
+      "summary": "用 BingX 虚拟卡消费并完成首存与首次合约交易任务，每人最高领 $245 奖励",
+      "value": "最高 $245/人",
+      "value_score": 65,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "资格基于预存款、主网交易量、做市与推荐记录，并经过女巫筛查；未领取的分配到期作废",
+      "cost_type": "真正免费",
+      "end": "2026-12-31",
+      "id": "standx-dusd-claim",
+      "name": "StandX DUSD 空投领取（无锁仓稳定币分发）",
+      "official_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "开始日期两来源略有出入（11-01 或 11-02）；领取窗口 12-31 08:00 UTC 关闭，逾期作废；只用官方门户，警惕假冒领取页 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bitrue 11月空投日历（引 StandX 官方公告）",
+      "source_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "start": "2026-11-01",
+      "status": "active",
+      "steps": [
+        "打开 StandX 官方领取门户查询资格",
+        "连接符合条件的钱包",
+        "在 12-31 前完成领取"
+      ],
+      "summary": "StandX 取消发币计划，改为一次性分发 DUSD 稳定币，无锁仓，逾期未领作废",
+      "value": "按个人预存、主网交易量、做市与推荐贡献分配 DUSD",
+      "value_score": 65,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ucard",
+      "conditions": "需 MEXC 账号与 KYC；用 USDT 充值；标准购买费 1%；无需信用记录/收入证明",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "mexc-global-card",
+      "name": "MEXC Global Card（USDT 虚拟 Visa 卡，最高 10% 返现）",
+      "official_link": "https://www.uscreditcards101.com/en/us/article/mexc-review/",
+      "regions": [
+        "全球（不服务美国、中国大陆、印度居民；MEXC 另限制香港、英国、加拿大）"
+      ],
+      "risk": "10% 为最高档返现，实际返现率与合资格消费类别以官方条款为准；标准购买费 1% 会吃掉部分返现；中国大陆居民无法申请；非银行信用卡，无信用额度 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "美卡 101 MEXC 评测",
+      "source_link": "https://www.uscreditcards101.com/en/us/article/mexc-review/",
+      "start": "2026-08-31",
+      "status": "active",
+      "steps": [
+        "注册 MEXC 并完成 KYC",
+        "在 App 内申请 Global Card",
+        "充值 USDT 后绑定 Apple Pay / Google Pay 消费"
+      ],
+      "summary": "MEXC 推出的 USDT 虚拟 Visa 卡，2026-08-31 上线，支持 Apple Pay / Google Pay，合资格消费最高 10% USDT 返现，另有最高 7% APR 的 USDT 理财",
+      "value": "标准档约 4% 返现，最高 10% USDT 返现；USDT 理财最高 7% APR",
+      "value_score": 65,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "bank",
+      "conditions": "2026-10-01 至 12-31 期间在分行开户；开户时一次性存入至少 HK$800 万新资金并持有至指定日期（10 月开户持有至 2027-01-31）；维持该级别 12 个月；现金于 2027-06-30 前发放",
+      "cost_type": "需要充值",
+      "end": "2026-12-31",
+      "id": "scb-hk-priority-private",
+      "name": "渣打香港优先私人理财迎新 HK$27000–58888",
+      "official_link": "https://perk.hk/en/bank-switching",
+      "regions": [
+        "香港"
+      ],
+      "risk": "门槛极高（HK$800 万起）；资金需锁定持有至 2027 年初；需亲赴香港分行开户；内地居民开户需符合银行审核要求 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Perk.hk 香港银行迎新汇总（2026-10-11 核实）",
+      "source_link": "https://perk.hk/en/bank-switching",
+      "start": "2026-10-01",
+      "status": "active",
+      "steps": [
+        "预约开户（部分迎新需经推荐链接，请向推荐人索取或在官网查询）",
+        "亲赴分行开立优先私人理财账户",
+        "开户时存入 HK$800 万新资金并持有至指定日期"
+      ],
+      "summary": "经推荐链接预约渣打香港优先私人理财并存入 HK$800 万新资金，得 HK$27000（或 27 万 Asia Miles）；专业投资者 + HK$1500 万最高 HK$58888",
+      "value": "HK$27000–58888 现金或里数",
+      "value_score": 65,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ai",
+      "conditions": "需学生身份验证；首月免费后按 $10/月计费；免费 12 个月活动已结束",
+      "cost_type": "免费试用",
+      "end": null,
+      "id": "perplexity-edu-pro-half",
+      "name": "Perplexity Education Pro 学生半价（首月免费）",
+      "official_link": "https://getstudentperks.com/guides/student-discounts-on-ai-tools",
+      "regions": [
+        "全球"
+      ],
+      "risk": "免费 12 个月已结束，当前为半价非免费；需学生验证；记得不需要时取消续费 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "StudentPerks AI 学生优惠指南 + The AI Rankings",
+      "source_link": "https://theairankings.com/best-ai-for-students/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "打开 Perplexity 教育优惠页",
+        "完成学生身份验证",
+        "领取首月免费并以 $10/月续费"
+      ],
+      "summary": "验证学生身份后 Perplexity Pro 半价约 $10/月，首月免费；原 12 个月免费已结束",
+      "value": "约 $10/月（原价 $20/月），首月免费",
+      "value_score": 65,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "需在 MEXC 活动页报名；每日交易量 2500–5000 USDT 得银币（每天最多6枚），累计 75万/100万 USDT 得金币；奖励为预测奖励金非现金",
+      "cost_type": "需要交易量",
+      "end": "2026-11-23",
+      "id": "mexc-trading-carnival-nov26",
+      "name": "MEXC Trading Carnival 预测市场嘉年华",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（部分地区受限，MEXC 不服务美国/中国大陆/香港/英国/加拿大居民）"
+      ],
+      "risk": "奖励为预测奖励金不可直接提现；高交易量门槛，勿为刷奖提高交易量；截止时间为 JST 2026-11-23 00:59 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 MEXC App/官网打开活动页报名",
+        "在 MEXC Prediction Markets 交易达到日交易量里程碑",
+        "用银币/金币参与抽奖"
+      ],
+      "summary": "在 MEXC 预测市场交易攒银币/金币抽奖，奖池 50 万 USDT，另有 9 台 iPhone",
+      "value": "单次抽奖 10–1000 USDT 预测奖励金，头奖 iPhone Duo / iPhone 18 Pro Max",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "需在活动页报名；新用户（此前无入金）首存 ≥100 USDT；净入金 2000/10000/30000 USDT 并持有 7 天分别得 100/200/300 USDT；奖池 10 万 USDT，先到先得",
+      "cost_type": "需要充值",
+      "end": "2026-11-28",
+      "id": "bingx-winter-deposit-nov26",
+      "name": "BingX 冬季存款支持节（月度奖励 Vol.2）",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（部分地区受限）"
+      ],
+      "risk": "体验金仅用于合约交易、本身不可提现；需持有满 7 天；截止时间为 JST 2026-11-28 23:59 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 BingX 活动页报名",
+        "活动期间完成入金并持有满 7 天",
+        "体验金自动发放"
+      ],
+      "summary": "活动期间入金，新用户首存 ≥100 USDT 得 50 USDT 体验金，净入金最高再得 300 USDT",
+      "value": "最高 350 USDT 体验金/人",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "曾在 Epoch 1–19 期间通过 Grass 提供带宽；通过 Grass 官方仪表板领取",
+      "cost_type": "真正免费",
+      "end": "2027-01-22",
+      "id": "grass-stage2-usdc-claim",
+      "name": "Grass Stage 2 奖励领取（USDC）",
+      "official_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "窗口 2027-01-22 关闭，或分配领完提前结束；只用官方仪表板领取 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bitrue 11月空投日历（引 Grass 官方 Stage 2 指南）",
+      "source_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "登录 Grass 官方仪表板",
+        "查看 Stage 2 奖励分配",
+        "在截止前完成领取"
+      ],
+      "summary": "在 Epoch 1–19 期间提供带宽的用户可通过 Grass 仪表板领取 USDC 奖励",
+      "value": "按个人 Epoch 1–19 带宽贡献分配 USDC",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "bank",
+      "conditions": "2026-10-01 至 12-31 期间通过推荐渠道申请（推荐码请向推荐人索取或在官网查询）；新客户；加入后第 7 天起至统计期维持平均个人理财总值至少 HK$100 万；保持 Treasures 客户身份；奖励于 2027 年 2–4 月发放",
+      "cost_type": "需要充值",
+      "end": "2026-12-31",
+      "id": "dbs-treasures-hk-53800",
+      "name": "星展香港丰盛理财迎新最高 HK$53800",
+      "official_link": "https://perk.hk/en/bank-switching",
+      "regions": [
+        "香港"
+      ],
+      "risk": "需维持 HK$100 万平均结余；奖励为多项组合，具体构成以 DBS 官网条款为准；需符合银行开户审核 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Perk.hk 香港银行迎新汇总（2026-10-24 核实）",
+      "source_link": "https://perk.hk/en/bank-switching",
+      "start": "2026-10-01",
+      "status": "active",
+      "steps": [
+        "通过推荐渠道申请 DBS Treasures（推荐码请向推荐人索取）",
+        "维持平均理财总值 ≥HK$100 万",
+        "等待奖励发放"
+      ],
+      "summary": "用推荐码申请 DBS Treasures，迎新奖励最高 HK$53800",
+      "value": "最高 HK$53800（含多项奖励组合）",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "vps",
+      "conditions": "SSH 直连无需账号；平台试用 30 天 $5 额度，之后每月 $1 免费额度（不结转）；免费服务为 1 vCPU / 0.5GB 内存规格",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "railway-free-vm-ssh",
+      "name": "Railway 免费 Linux 虚拟机（ssh railway.new，免注册免卡）",
+      "official_link": "https://railway.new",
+      "regions": [
+        "全球"
+      ],
+      "risk": "免费虚拟机为临时沙箱性质，不适合存放重要数据；每月 $1 额度很小，仅够微型服务；免费额度规则可能调整",
+      "source": "AgentDeals 免费托管对比（引用 railway.com/pricing，2026-10-22 读取）",
+      "source_link": "https://agentdeals.dev/hosting-alternatives",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在终端运行 ssh railway.new 获取免费虚拟机",
+        "或在 Railway 注册领取 $5 试用额度",
+        "部署应用到免费实例"
+      ],
+      "summary": "运行 ssh railway.new 即可获得一台免费 Linux 虚拟机，无需账号、无需信用卡；另有 30 天 $5 试用额度与每月 $1 免费额度",
+      "value": "免费虚拟机 + $5 试用额度 + 每月 $1 免费额度",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": true
+    },
+    {
+      "category": "software",
+      "conditions": "11 月 16 日开售；终身优惠通常限量，售完即止；多数产品支持 60 天退款",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "appsumo-black-friday-2026",
+      "name": "AppSumo 黑五大促（11 月 16 日开启，终身软件 $39 起）",
+      "official_link": "https://www.airbrush.ai/blogs/black-friday-deals-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "完整优惠名单开售当天才公布，预览价格可能变动；终身版通常指产品生命周期，非永久保证；注意各产品的积分/功能上限 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Airbrush 黑五软件优惠汇总（2026-11-10 核查）",
+      "source_link": "https://www.airbrush.ai/blogs/black-friday-deals-2026",
+      "start": "2026-11-16",
+      "status": "active",
+      "steps": [
+        "11 月 16 日打开 AppSumo 黑五页面",
+        "挑选需要的终身软件",
+        "下单前确认退款政策与功能限制"
+      ],
+      "summary": "AppSumo 黑五促销 11 月 16 日美中时间上午 8 点开启，终身软件优惠，已预览 Notte $69、Wideo $59、Prismical $59、ResumeUp.AI $49、Consently $39",
+      "value": "终身软件 $39–$69，相对月付节省数百美元",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
     },
     {
       "category": "other",
@@ -143,7 +742,521 @@
       "value": "免费",
       "value_score": 55,
       "verified_at": "2026-11-13",
-      "last_checked": "2026-11-13 14:03 UTC"
+      "official_link_verified": true
+    },
+    {
+      "category": "crypto",
+      "conditions": "需在活动页报名并每日点签到；新用户首存 ≥100 USDT 和首次合约交易 ≥1000 USDT 各得 100 分；积分兑换先到先得",
+      "cost_type": "真正免费",
+      "end": "2027-01-19",
+      "id": "mexc-daily-checkin-s2",
+      "name": "MEXC 每日签到奖励计划第二期",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（部分地区受限）"
+      ],
+      "risk": "积分兑换名额有限，先到先得；合约奖励金不可提现；截止时间为 JST 2027-01-19 19:00 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 MEXC 活动页报名",
+        "每天打开活动页签到",
+        "在活动页用积分兑换奖励"
+      ],
+      "summary": "每日签到领积分，连签最高额外 400 分，积分可兑换合约奖励金与 USDT 空投",
+      "value": "每日 5 分，30 天连签 +400 分；积分兑换价值视活动页库存而定",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "首次在 BYDFi Buy Crypto 用银行卡或银行转账完成法币交易；返现按实际入金 5% 计算，奖池 3 万 USDT，先到先得；银行转账入金免平台费",
+      "cost_type": "需要充值",
+      "end": "2026-11-24",
+      "id": "bydfi-fiat-fiesta-nov26",
+      "name": "BYDFi 法币入金嘉年华（5% 返现 + BTC 空投）",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（法币通道可用地区）"
+      ],
+      "risk": "返现奖池有限先到先得；BTC 空投需满足法币与合约交易量目标；截止时间为 JST 2026-11-24 19:00 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 BYDFi 完成注册与 KYC",
+        "在 Buy Crypto 板块完成首次法币买币",
+        "满足交易量目标参与 BTC 空投"
+      ],
+      "summary": "首次用法币买币享 5% 返现（上限 300 USDT），达标交易量另有机会参与 1000 美元 BTC 空投",
+      "value": "返现最高 300 USDT/人，另有 BTC 空投抽奖",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "新用户；注册、入金、完成首笔交易、完成身份验证；在任务中心手动领取奖励",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "bitunix-new-user-rewards",
+      "name": "Bitunix 新用户奖励（最高 10000 USDT）",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（部分地区受限）"
+      ],
+      "risk": "10000 USDT 为官方宣传总额，实际到手多为合约奖励金/盲盒，不可直接提现；未公布结束日期 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "注册 Bitunix 账号",
+        "完成身份验证",
+        "入金并完成首笔交易",
+        "在任务中心领取奖励"
+      ],
+      "summary": "新用户注册、入金、首单交易并完成身份验证，领合约奖励金与盲盒，官方宣称总额最高 10000 USDT",
+      "value": "官方宣称最高 10000 USDT（多为合约奖励金与盲盒，非现金）",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ucard",
+      "conditions": "需通过 Sumsub KYC；虚拟卡开卡费 $10（USDT/USD）；单笔限额 $1 万，月限额 $10 万；部分国家仅限虚拟卡（印度/以色列/巴基斯坦/尼日利亚无实体卡配送）",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "uupay-virtual-card",
+      "name": "UUPAY 虚拟卡（1% 返现 + 限时零充值费）",
+      "official_link": "https://cryptocardbest.com/virtual-cards/uupay-card-review/",
+      "regions": [
+        "全球（受限国家名单较长，详情见官网）"
+      ],
+      "risk": "月费与兑换费未公开；返现发放货币与条件未公开；发行方与牌照信息不透明（香港 UUpay Limited，未具名发卡机构）；$10 开卡价与零充值费为限时促销价，可能恢复原价 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "CryptoCardBest UUPAY 评测（2026-10-28）",
+      "source_link": "https://cryptocardbest.com/virtual-cards/uupay-card-review/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 UUPAY 注册并完成 KYC",
+        "支付 $10 开通虚拟卡",
+        "充值 USDT 后消费，返现自动累计"
+      ],
+      "summary": "加密货币预付虚拟卡，约 1 分钟开卡，虚拟卡 1% 返现，限时零充值手续费，支持 Apple Pay / Google Pay",
+      "value": "虚拟卡开卡 $10；消费 1% 返现；限时充值 0 手续费",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "bank",
+      "conditions": "需在消费前成功登记；指定香港及内地超市单笔满 HK$200；10 月与 11 月分别计算上限",
+      "cost_type": "需要充值",
+      "end": "2026-11-30",
+      "id": "icbc-asia-supermarket-15",
+      "name": "工银亚洲指定超市额外 15% 回赠",
+      "official_link": "https://www.ttshuoka.com/blog/hong-kong-bank-promotions-october-2026-guide",
+      "regions": [
+        "香港",
+        "中国大陆（指定内地超市）"
+      ],
+      "risk": "需提前登记，漏登记不计；指定超市与交易资格以银行认定为准；11 月为活动最后一个月 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "TT说卡 香港银行活动攻略（2026-10-08 整理）",
+      "source_link": "https://www.ttshuoka.com/blog/hong-kong-bank-promotions-october-2026-guide",
+      "start": "2026-10-01",
+      "status": "active",
+      "steps": [
+        "在工银亚洲渠道登记活动",
+        "用合资格信用卡在指定超市单笔消费满 HK$200",
+        "回赠按月发放"
+      ],
+      "summary": "工银亚洲合资格信用卡在指定香港及内地超市单笔满 HK$200，享额外 15% 回赠，每月最高 HK$300",
+      "value": "每月最高 HK$300，10–11 月合计最高 HK$600",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ai",
+      "conditions": "选择年付即可自动享受，无需优惠码；Midjourney 无免费版、无免费试用、无学生折扣",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "midjourney-annual-20off",
+      "name": "Midjourney 年付 8 折（Basic $96/年）",
+      "official_link": "https://aicredits.tech/blog/free-ai-image-generators-compared",
+      "regions": [
+        "全球"
+      ],
+      "risk": "Midjourney 两年内未发布过公开优惠码，结账页无码框，第三方售卖的优惠码均为假；年付需一次性付清；取消时无挽留折扣 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "AI Credits 免费AI生图对比（2026-11-06）+ Layer3Labs",
+      "source_link": "https://www.layer3labs.io/guides/ai-free-trials",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 Midjourney 订阅页选择年付",
+        "按年付价格结算"
+      ],
+      "summary": "Midjourney 年付自动 8 折：Basic $10/月→$8/月（$96/年），Pro $60→$48，Mega $120→$96，最高年省 $288",
+      "value": "年省 $24–$288，视套餐而定",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "免费参与；验证需质押 500 测试 ASE（测试币）；真实 ASE 质押可 2–10 倍加速 XP（自愿，有价格风险）；每项任务有每日上限",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "asentum-testnet-xp",
+      "name": "Asentum 激励测试网（XP 即空投）",
+      "official_link": "https://www.airdroptracker.io/blog/testnet-airdrops-to-try-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "测试网代币无价值；空投最终价值与时间未定；真实质押有价格风险，建议只用免费路线 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "AirdropTracker 测试网盘点（引官方文档）",
+      "source_link": "https://www.airdroptracker.io/blog/testnet-airdrops-to-try-november-2026",
+      "start": "2026-09-17",
+      "status": "active",
+      "steps": [
+        "进入 Asentum 测试网",
+        "领取测试币并参与验证/兑换/流动性任务",
+        "积累 XP 等待空投快照"
+      ],
+      "summary": "Asentum 测试网自 9 月 17 日上线，官方文档称 XP 即空投：验证、兑换、加流动性均可赚 XP",
+      "value": "XP 兑换为未来空投，价值未定",
+      "value_score": 50,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "需为合格合伙社区钱包；在 11-19 截止的窗口内连续 7 天持有至少 1000 sSwanUSD；多投不增加份额",
+      "cost_type": "需要充值",
+      "end": "2026-11-19",
+      "id": "monolith-swan-holding",
+      "name": "Monolith Market 持仓活动（瓜分 10 万 SWAN）",
+      "official_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "需持有 1000 sSwanUSD，有价格波动与智能合约风险；窗口 11-19 截止，时间紧迫；多投不加分，不要超额投入 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bitrue 11月空投日历（引 airdrops.io 观察名单）",
+      "source_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "确认钱包属于合格合伙社区",
+        "持有 ≥1000 sSwanUSD 满连续 7 天",
+        "等待 SWAN 分配"
+      ],
+      "summary": "在启动窗口内连续 7 天持有 ≥1000 sSwanUSD 的合格合伙社区钱包，平分 10 万 SWAN",
+      "value": "10 万 SWAN 由合格钱包平分，单人价值视参与人数而定",
+      "value_score": 50,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "5 项任务各 1 次抽奖（最多 5 次）：注册、完成高级 KYC、净入金 100 USDT、交易合约、邀请好友；中奖概率未公布",
+      "cost_type": "需要充值",
+      "end": "2026-12-06",
+      "id": "bydfi-ai-token-fiesta",
+      "name": "BYDFi AI 代币嘉年华（抽 H200 与 Claude Pro 年会员）",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（部分地区受限）"
+      ],
+      "risk": "纯抽奖，中奖率未公布，大概率不中；需净入金 100 USDT 与合约交易；截止时间为 JST 2026-12-06 19:00 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "在 BYDFi 活动页报名",
+        "逐项完成 5 个任务获得抽奖次数",
+        "参与抽奖"
+      ],
+      "summary": "完成 5 项任务各得一次抽奖机会，奖品包括 NVIDIA H200 加速卡、Claude Pro 与 ChatGPT Pro 一年会员",
+      "value": "头奖 NVIDIA H200（价值数万美元），另有 Claude Pro / ChatGPT Pro 年会员",
+      "value_score": 50,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ai",
+      "conditions": "注册账号即可；免费版生成内容无商业使用权；Pro 版 $8/月（年付）或 $10/月",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "suno-free-plan-50",
+      "name": "Suno 免费版（每日 50 积分，约 10 首歌）",
+      "official_link": "https://www.layer3labs.io/guides/ai-free-trials",
+      "regions": [
+        "全球"
+      ],
+      "risk": "免费版无商业使用权；Suno 无学生折扣；截至 2026-11-12 未宣布 2026 黑五优惠（去年为年付 4 折），不要轻信第三方优惠码 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Layer3Labs AI 免费试用指南（2026-11-01 核查官方定价页）",
+      "source_link": "https://www.layer3labs.io/guides/ai-free-trials",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "注册 Suno 账号",
+        "每日领取 50 免费积分",
+        "用积分生成音乐"
+      ],
+      "summary": "Suno 免费 Basic 计划每日 50 积分，可生成约 10 首歌，无需订阅",
+      "value": "免费，每日 50 积分",
+      "value_score": 50,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ai",
+      "conditions": "注册送 40 积分；加入 Discord 再得 50 积分；无需信用卡；积分用完为止，付费计划 $14/月起",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "openart-90-credits",
+      "name": "OpenArt 免费 90 积分（无卡注册）",
+      "official_link": "https://aicredits.tech/blog/free-ai-image-generators-compared",
+      "regions": [
+        "全球"
+      ],
+      "risk": "积分为一次性，用完需付费；免费额度规则可能调整 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "AI Credits 免费AI生图对比（2026-11-06）",
+      "source_link": "https://aicredits.tech/blog/free-ai-image-generators-compared",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "注册 OpenArt 账号领 40 积分",
+        "加入官方 Discord 再领 50 积分",
+        "用积分体验生图/视频功能"
+      ],
+      "summary": "OpenArt 注册送 40 积分，加入 Discord 再得 50 积分，共 90 免费积分，可试图片、视频与角色生成功能",
+      "value": "90 免费积分（约值数美元）",
+      "value_score": 50,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "software",
+      "conditions": "结账时输入 BFCM26；月付计划折扣长期有效；新账号可先 7 天免费试用全部 Work 功能，无需信用卡；Mac 与 Windows 可用",
+      "cost_type": "需要充值",
+      "end": "2026-11-30",
+      "id": "voibe-bfcm26",
+      "name": "Voibe 黑五 25% 折扣（码 BFCM26，终身版 $149.25 起）",
+      "official_link": "https://www.getvoibe.com/resources/best-black-friday-ai-saas-deals-2026/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "无 iPhone/Android App；会议记录需联网；先试用再购买，避免冲动消费",
+      "source": "Voibe 官网黑五优惠页（2026-11-07 核查）",
+      "source_link": "https://www.getvoibe.com/resources/best-black-friday-ai-saas-deals-2026/",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "下载 Voibe 免费试用 7 天",
+        "确认需要后在结账时输入 BFCM26",
+        "选择月付或终身版完成购买"
+      ],
+      "summary": "AI 听写与会议记录工具 Voibe 黑五全场 25% 折扣，终身版 Dictation $149.25（原价 $199），Work 终身版 $299.25（原价 $399）",
+      "value": "节省 $49.75–$99.75；月付计划折扣每月持续",
+      "value_score": 50,
+      "verified_at": "2026-11-13",
+      "official_link_verified": true
+    },
+    {
+      "category": "crypto",
+      "conditions": "新用户注册并累计 MAPO 现货交易量 ≥50 USDT；首单交易者累计 ≥100 USDT 另得约 $2；仅计收手续费的现货交易量；奖励于活动结束后 14 个工作日内发放",
+      "cost_type": "需要交易量",
+      "end": "2026-11-26",
+      "id": "htx-mapo-bonanza-nov26",
+      "name": "HTX MAPO Bonanza 交易瓜分 1 万美元",
+      "official_link": "https://www.stos09.com/support/35048728233718/",
+      "regions": [
+        "全球（HTX 可用地区）"
+      ],
+      "risk": "单人奖励仅约 $5，MAPO 价格波动大；零费率/返佣交易不计入交易量；活动时间 11-12 10:00 UTC 至 11-26 10:00 UTC 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "HTX 官方公告（stos09 支持站）",
+      "source_link": "https://www.stos09.com/support/35048728233718/",
+      "start": "2026-11-12",
+      "status": "active",
+      "steps": [
+        "注册 HTX 账号",
+        "现货交易 MAPO 达到 50 USDT 累计交易量",
+        "等待空投发放（14 个工作日内）"
+      ],
+      "summary": "交易 MAPO 现货瓜分 9226469 MAPO（约 1 万美元），新用户交易 ≥50 USDT 得约 $5 空投",
+      "value": "新用户约 $5/人，另有首单交易 $2 空投及交易排行奖池",
+      "value_score": 45,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "邮箱验证与手机登录即可领 900 分；完成 7 天连胜任务再得 300 分；项目方为 YZi Labs 与 Animoca 支持",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "allscale-points",
+      "name": "AllScale 积分活动（YZi Labs / Animoca 背景）",
+      "official_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "积分活动不保证发币或兑换价值；注意账号隐私，只用官方渠道注册 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bitrue 11月空投日历（引 airdrops.io 观察名单）",
+      "source_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "注册 AllScale 账号",
+        "完成邮箱验证与手机登录领 900 分",
+        "坚持 7 天连胜任务攒分"
+      ],
+      "summary": "邮箱验证 + 手机登录即得 900 免费积分，每完成 7 天连胜再得 300 分",
+      "value": "免费积分，未来可能兑换空投，价值未定",
+      "value_score": 45,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ai",
+      "conditions": "结账时输入 LEO20；优惠码 2026-11-03 验证有效；免费版每日 150 代币无需付费",
+      "cost_type": "需要充值",
+      "end": "2026-11-30",
+      "id": "leonardo-leo20",
+      "name": "Leonardo.Ai 优惠码 LEO20（全订阅 8 折）",
+      "official_link": "https://aicredits.tech/blog/free-ai-image-generators-compared",
+      "regions": [
+        "全球"
+      ],
+      "risk": "优惠码可能提前失效，结账时以实际价格为准 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "AI Credits 免费AI生图对比（2026-11-06）",
+      "source_link": "https://aicredits.tech/blog/free-ai-image-generators-compared",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "注册 Leonardo.Ai 账号",
+        "免费版每日领 150 代币试用",
+        "订阅时输入 LEO20 享 8 折"
+      ],
+      "summary": "优惠码 LEO20 全订阅计划 8 折；免费版每日 150 代币可日常作画",
+      "value": "订阅 8 折；免费版每日 150 代币",
+      "value_score": 45,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "参与测试网；NFT 与社交活动计分，兑换/流动性/质押不计分；提交有效反馈可提高权重",
+      "cost_type": "真正免费",
+      "end": null,
+      "id": "kalos-testnet-points",
+      "name": "Kalos 测试网积分（每日分享 50 万积分）",
+      "official_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "积分不保证发币；测试网代币无价值 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bitrue 11月空投日历（引 airdrops.io 观察名单）",
+      "source_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "进入 Kalos 测试网",
+        "完成 NFT 与社交任务",
+        "每日领取积分份额"
+      ],
+      "summary": "Kalos 测试网每日分享 50 万积分，NFT 与社交活动计分，反馈被采纳可提高评分权重",
+      "value": "测试网积分，未来可能兑换空投，价值未定",
+      "value_score": 40,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "bank",
+      "conditions": "需在 Reward+ 提前登记；当月合资格内地人民币签账累计达等值 HK$1200；餐饮签账额外 3%",
+      "cost_type": "需要充值",
+      "end": "2026-12-31",
+      "id": "hsbc-hk-mainland-dining-3pct",
+      "name": "汇丰香港内地餐饮额外 3% 奖赏钱",
+      "official_link": "https://www.ttshuoka.com/blog/hong-kong-bank-promotions-october-2026-guide",
+      "regions": [
+        "中国大陆（内地餐饮商户）"
+      ],
+      "risk": "需提前登记；需当月累计签账达标才触发；单月上限仅 HK$80 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "TT说卡 香港银行活动攻略（2026-10-08 整理）",
+      "source_link": "https://www.ttshuoka.com/blog/hong-kong-bank-promotions-october-2026-guide",
+      "start": "2026-07-01",
+      "status": "active",
+      "steps": [
+        "在汇丰 Reward+ 登记活动",
+        "用汇丰香港信用卡在内地餐饮消费",
+        "奖赏钱按月发放"
+      ],
+      "summary": "汇丰香港信用卡在内地餐饮消费，月累计人民币签账达等值 HK$1200，餐饮签账享额外 3% 奖赏钱，每月上限 HK$80",
+      "value": "每月最高 HK$80，剩余月份合计最高 HK$240",
+      "value_score": 40,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "software",
+      "conditions": "结账时输入 BLACKFRIDAY80；终身授权 1 台 Mac；提供 7 天免费试用",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "deskrest-lifetime-5",
+      "name": "DeskRest Mac 休息提醒终身版 $5（码 BLACKFRIDAY80）",
+      "official_link": "https://surendrapandar.medium.com/5-mac-apps-you-should-buy-this-black-friday-97096acb134a",
+      "regions": [
+        "全球"
+      ],
+      "risk": "小众独立应用，功能单一；价格可能变动，结账时以实际价格为准 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Medium：5 款值得买的 Mac 黑五应用（2026-11-09 核价）",
+      "source_link": "https://surendrapandar.medium.com/5-mac-apps-you-should-buy-this-black-friday-97096acb134a",
+      "start": null,
+      "status": "active",
+      "steps": [
+        "下载 DeskRest 免费试用 7 天",
+        "结账时输入 BLACKFRIDAY80",
+        "以 $5 购入终身授权"
+      ],
+      "summary": "Mac 休息提醒应用 DeskRest 终身授权 1 台 Mac 仅 $5（原价 $24.99），会议中自动暂停提醒",
+      "value": "$5 终身（原价 $24.99，省 $19.99）",
+      "value_score": 30,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "bank",
+      "conditions": "新客户；需满足直接存款等合格活动（具体金额与期限未在汇总中列出，以 BMO 官网条款为准）",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "bmo-checking-600",
+      "name": "BMO 支票账户开户奖励 $600",
+      "official_link": "https://www.bankrate.com/banking/best-bank-account-bonuses-and-promotions/",
+      "regions": [
+        "美国"
+      ],
+      "risk": "汇总仅确认金额为 $600，具体达标条件与截止日期未在来源中列出，需到 BMO 官网核实后再参与；需美国身份与 SSN 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bankrate 11月银行奖励榜",
+      "source_link": "https://www.bankrate.com/banking/best-bank-account-bonuses-and-promotions/",
+      "start": null,
+      "status": "unverified",
+      "steps": [
+        "在 BMO 官网查看当前开户奖励条款",
+        "在线开立个人支票账户",
+        "按条款完成直接存款等合格活动"
+      ],
+      "summary": "BMO 个人支票账户新户奖励 $600，为 Bankrate 11 月榜单最易拿到的高额奖励之一",
+      "value": "$600 现金",
+      "value_score": 75,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
     },
     {
       "category": "vps",
@@ -156,7 +1269,7 @@
       "regions": [
         "全球"
       ],
-      "risk": "绑卡要求未核实；免费资源很小；不是 VPS，无 root 权限",
+      "risk": "绑卡要求未核实；免费资源很小；不是 VPS，无 root 权限 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
       "source": "Northflank 官网定价页与计费文档（两者说法矛盾）",
       "source_link": "https://northflank.com",
       "start": null,
@@ -168,7 +1281,198 @@
       "summary": "PaaS 平台免费 Sandbox：2 个服务、1 个数据库、2 个定时任务，常驻不休眠。",
       "value": "约 $20/月资源额度",
       "value_score": 65,
-      "verified_at": "2026-11-13"
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ai",
+      "conditions": "面向开发者 API 调用；Flash 半价至 12-31，Argon 半价至 11-30",
+      "cost_type": "需要充值",
+      "end": "2026-12-31",
+      "id": "gemini-api-half-price",
+      "name": "Gemini API 半价（Flash 至 12-31，Argon 至 11-30）",
+      "official_link": "https://promoclock.co/en/blog/save-money-on-ai-subscriptions/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "仅单一第三方来源提及，未在 Google 官方定价页核实；Argon 半价 11-30 即将结束 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "PromoClock AI订阅省钱指南（2026-11-02 数据）",
+      "source_link": "https://promoclock.co/en/blog/save-money-on-ai-subscriptions/",
+      "start": null,
+      "status": "unverified",
+      "steps": [
+        "在 Google AI Studio / Vertex AI 开通 API",
+        "调用 Gemini 3.8 Flash 或 Gemini 4 Argon",
+        "账单自动按半价计费"
+      ],
+      "summary": "开发者调用 Gemini 3.8 Flash 享半价至 2026-12-31，Gemini 4 Argon 半价至 2026-11-30",
+      "value": "API 调用费 5 折",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "测试网做可验证工作：矿工提供算力、代理购买算力、验证者按排名取前 1000 名；持币、水龙头领取不计入；无领取窗口，分配直接写入创世区块",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "flop-testnet-genesis",
+      "name": "FLOP 测试网创世空投（AI 推理链）",
+      "official_link": "https://flopnetworknews.com/flop-faq/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "截至 11-08 官方仍未公布测试网确切日期（原目标 11-03 未兑现）；文档均为草案；目前不存在 FLOP 代币，任何声称可领取 FLOP 的网站都是骗局；只认 flop.finance/official 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Flop Network News FAQ（汇总官方草案文档）",
+      "source_link": "https://flopnetworknews.com/flop-faq/",
+      "start": null,
+      "status": "unverified",
+      "steps": [
+        "关注 flop.finance 官方公告等测试网启动",
+        "按官方文档参与挖矿/代理/验证",
+        "等待快照与创世分配"
+      ],
+      "summary": "Flop Network 测试网计划 Q4 上线约 90 天，矿工/代理/验证者按可验证工作分享创世空投（矿工与代理各 12 亿 FLOP）",
+      "value": "创世分配 44 亿 FLOP，其中空投最多 36 亿；单人价值视工作量而定",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "ai",
+      "conditions": "Claude Max 或 Team 付费订阅用户；在 Settings > Billing 领取；额度每个账单周期过期",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "claude-max-api-credits",
+      "name": "Claude Max / Team 附赠每月 $100–500 API 额度",
+      "official_link": "https://promoclock.co/en/blog/save-money-on-ai-subscriptions/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "仅单一第三方来源提及，未在 Anthropic 官方页核实；额度按账单周期过期，不可累积 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "PromoClock AI订阅省钱指南（2026-11-02 数据）",
+      "source_link": "https://promoclock.co/en/blog/save-money-on-ai-subscriptions/",
+      "start": "2026-10-07",
+      "status": "unverified",
+      "steps": [
+        "登录 Claude 账号",
+        "进入 Settings > Billing",
+        "领取当月 API 额度"
+      ],
+      "summary": "自 2026-10-07 起，Claude Max 与 Team 订阅每月附赠 $100–500 API 额度，需在 设置 > 账单 中领取",
+      "value": "$100–$500/月 API 额度",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "software",
+      "conditions": "通过 AppSumo 购买；终身版含 100 积分；黑五期间上架",
+      "cost_type": "需要充值",
+      "end": null,
+      "id": "depositphotos-lifetime-49",
+      "name": "Depositphotos 终身版 $49（AppSumo，100 积分）",
+      "official_link": "https://www.99signals.com/black-friday-deals-entrepreneurs/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "仅单一第三方汇总提及，未在 AppSumo 官网核实当前价格与库存；100 积分为一次性额度，用完需另购 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "99signals 黑五创业者优惠汇总",
+      "source_link": "https://www.99signals.com/black-friday-deals-entrepreneurs/",
+      "start": null,
+      "status": "unverified",
+      "steps": [
+        "打开 AppSumo 搜索 Depositphotos",
+        "确认终身版积分与使用条款",
+        "下单购买"
+      ],
+      "summary": "Depositphotos 终身访问 3.2 亿+免版税图片、视频、矢量与音乐，含 AI 生图与 AI 编辑器，100 积分 $49 一次付清",
+      "value": "$49 终身（100 积分），相对订阅节省显著",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "vps",
+      "conditions": "注册时输入优惠码 N8FV3F；需绑定国际信用卡/借记卡验证身份（可能有 $1–2 临时预授权，随即释放）；额度 60 天内有效，过期作废；数据中心含新加坡、东京、悉尼等",
+      "cost_type": "免费试用",
+      "end": null,
+      "id": "upcloud-promo-n8fv3f",
+      "name": "UpCloud 优惠码 N8FV3F（$25 免费额度，60 天）",
+      "official_link": "https://www.bookofer.com/upcloud-promo-code/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "优惠码来自第三方优惠站，未在 UpCloud 官网核实，可能已失效；必须绑卡，无卡用户无法使用；额度仅 60 天 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "BookOfer UpCloud 优惠码页（2026-11-04 发布）",
+      "source_link": "https://www.bookofer.com/upcloud-promo-code/",
+      "start": null,
+      "status": "unverified",
+      "steps": [
+        "在 UpCloud 注册账号",
+        "注册时输入优惠码 N8FV3F",
+        "完成卡验证后领取 $25 额度",
+        "60 天内部署服务器使用"
+      ],
+      "summary": "注册时输入优惠码 N8FV3F 得 $25 免费云额度（60 天有效），可部署高性能云服务器；推荐好友另得 $50",
+      "value": "$25 云额度（60 天）",
+      "value_score": 45,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "software",
+      "conditions": "年付计划使用优惠码 BREVOFRIDAY25；可先注册免费计划试用",
+      "cost_type": "需要充值",
+      "end": "2026-12-01",
+      "id": "brevo-bf-40off",
+      "name": "Brevo 黑五邮件营销年付 4 折（码 BREVOFRIDAY25）",
+      "official_link": "https://www.99signals.com/black-friday-deals-entrepreneurs/",
+      "regions": [
+        "全球"
+      ],
+      "risk": "优惠码名称含 25 疑似 2025 年旧码复用，未在 Brevo 官网核实，可能已失效；结账时以实际价格为准 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "99signals 黑五创业者优惠汇总",
+      "source_link": "https://www.99signals.com/black-friday-deals-entrepreneurs/",
+      "start": null,
+      "status": "unverified",
+      "steps": [
+        "注册 Brevo 免费计划试用",
+        "确认需要后选择年付计划",
+        "结账时输入 BREVOFRIDAY25"
+      ],
+      "summary": "邮件营销工具 Brevo 年付计划 4 折，优惠码 BREVOFRIDAY25，另有免费计划可先试用",
+      "value": "年付计划节省 40%",
+      "value_score": 45,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
+    },
+    {
+      "category": "crypto",
+      "conditions": "欧洲地区新用户；完成首次购买；需完成身份验证",
+      "cost_type": "需要充值",
+      "end": "2026-12-31",
+      "id": "coinbase-eu-btc-15",
+      "name": "Coinbase 欧洲新用户首购送 15 欧元 BTC",
+      "official_link": "https://memeburn.com/black-friday-crypto-deals/",
+      "regions": [
+        "欧洲"
+      ],
+      "risk": "仅单一第三方来源提及，未在 Coinbase 官网核实；仅限欧洲用户；BTC 价格波动 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "MemeBurn 黑五加密优惠盘点",
+      "source_link": "https://memeburn.com/black-friday-crypto-deals/",
+      "start": null,
+      "status": "unverified",
+      "steps": [
+        "注册 Coinbase 账号并完成验证",
+        "完成首次购买",
+        "领取 15 欧元 BTC 奖励"
+      ],
+      "summary": "欧洲新用户完成首次购买可得 15 欧元等值 BTC",
+      "value": "约 15 欧元 BTC",
+      "value_score": 40,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false
     }
   ]
 }
