@@ -1,1 +1,53 @@
-{"expired_items":0,"link_checks":[],"new_items":0,"note":"等待首次定时运行","page_changes":[],"run_at":null,"sources":[],"total_deals":6}
+{
+  "run_at": "2026-11-13T14:03:10Z",
+  "sources": [
+    {
+      "name": "Reddit r/freebies",
+      "ok": true,
+      "entries": 25,
+      "new": 0
+    },
+    {
+      "name": "Reddit r/beermoney",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "name": "Reddit r/CryptoAirdrop",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "name": "free-nodes releases",
+      "ok": true,
+      "entries": 0,
+      "new": 0
+    }
+  ],
+  "new_items": 0,
+  "expired_items": 0,
+  "page_changes": [],
+  "link_checks": [
+    {
+      "id": "ai-qiniu-conatus-2026",
+      "http": 200
+    },
+    {
+      "id": "ai-gemini-4-hydrogen-free",
+      "http": 200
+    },
+    {
+      "id": "ai-ant-ling-32-flash-free",
+      "http": 200
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
+      "http": 200
+    },
+    {
+      "id": "other-free-nodes-zhuhaiuk",
+      "http": 200
+    }
+  ],
+  "total_deals": 6
+}
