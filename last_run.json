@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-13T14:03:10Z",
+  "run_at": "2026-11-13T15:43:04Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -26,10 +26,57 @@
   ],
   "new_items": 0,
   "expired_items": 0,
-  "page_changes": [],
+  "page_changes": [
+    {
+      "name": "Gemini API 定价页",
+      "url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
+    },
+    {
+      "name": "Anthropic 定价页",
+      "url": "https://www.anthropic.com/pricing",
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
+    },
+    {
+      "name": "OpenAI API 定价页",
+      "url": "https://openai.com/api/pricing/",
+      "note": "HTTP 状态变化：200 → 403"
+    },
+    {
+      "name": "GitHub Student Pack",
+      "url": "https://education.github.com/pack",
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
+    },
+    {
+      "name": "Oracle Cloud 免费层",
+      "url": "https://www.oracle.com/cloud/free/",
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
+    },
+    {
+      "name": "Cloudflare 免费计划",
+      "url": "https://www.cloudflare.com/plans/free/",
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
+    }
+  ],
   "link_checks": [
     {
+      "id": "google-ai-pro-student-year",
+      "http": 200
+    },
+    {
+      "id": "github-student-pack",
+      "http": 200
+    },
+    {
       "id": "ai-qiniu-conatus-2026",
+      "http": 200
+    },
+    {
+      "id": "chase-total-checking-400",
+      "http": 200
+    },
+    {
+      "id": "oracle-always-free",
       "http": 200
     },
     {
@@ -37,17 +84,21 @@
       "http": 200
     },
     {
+      "id": "keybank-select-500",
+      "http": 200
+    },
+    {
+      "id": "aws-free-plan-200",
+      "http": 200
+    },
+    {
       "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "software-firefox-vpn-unlimited",
-      "http": 200
-    },
-    {
-      "id": "other-free-nodes-zhuhaiuk",
-      "http": 200
+      "id": "sofi-checking-400",
+      "http": 403
     }
   ],
-  "total_deals": 6
+  "total_deals": 54
 }
