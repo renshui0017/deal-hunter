@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T16:15:00Z",
+  "updated_at": "2026-11-13T16:56:50Z",
   "deals": [
     {
       "category": "ai",
@@ -881,7 +881,8 @@
       "value": "虚拟卡开卡 $10；消费 1% 返现；限时充值 0 手续费",
       "value_score": 55,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "bank",
@@ -909,7 +910,8 @@
       "value": "每月最高 HK$300，10–11 月合计最高 HK$600",
       "value_score": 55,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "ai",
@@ -935,7 +937,8 @@
       "value": "年省 $24–$288，视套餐而定",
       "value_score": 55,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "crypto",
@@ -962,7 +965,8 @@
       "value": "XP 兑换为未来空投，价值未定",
       "value_score": 50,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "crypto",
@@ -989,7 +993,8 @@
       "value": "10 万 SWAN 由合格钱包平分，单人价值视参与人数而定",
       "value_score": 50,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "crypto",
@@ -1016,7 +1021,8 @@
       "value": "头奖 NVIDIA H200（价值数万美元），另有 Claude Pro / ChatGPT Pro 年会员",
       "value_score": 50,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "ai",
@@ -1043,7 +1049,8 @@
       "value": "免费，每日 50 积分",
       "value_score": 50,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "ai",
@@ -1070,7 +1077,8 @@
       "value": "90 免费积分（约值数美元）",
       "value_score": 50,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "software",
@@ -1097,7 +1105,8 @@
       "value": "节省 $49.75–$99.75；月付计划折扣每月持续",
       "value_score": 50,
       "verified_at": "2026-11-13",
-      "official_link_verified": true
+      "official_link_verified": true,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "crypto",
@@ -1124,7 +1133,8 @@
       "value": "新用户约 $5/人，另有首单交易 $2 空投及交易排行奖池",
       "value_score": 45,
       "verified_at": "2026-11-13",
-      "official_link_verified": false
+      "official_link_verified": false,
+      "last_checked": "2026-11-13 16:56 UTC"
     },
     {
       "category": "crypto",
