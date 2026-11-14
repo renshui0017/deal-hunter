@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-14T00:51:35Z",
+  "run_at": "2026-11-14T01:21:47Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -14,9 +14,8 @@
     },
     {
       "name": "Reddit r/CryptoAirdrop",
-      "ok": true,
-      "entries": 25,
-      "new": 9
+      "ok": false,
+      "error": "HTTP 429"
     },
     {
       "name": "free-nodes releases",
@@ -25,7 +24,7 @@
       "new": 0
     }
   ],
-  "new_items": 9,
+  "new_items": 0,
   "expired_items": 0,
   "page_changes": [
     {
@@ -56,43 +55,43 @@
   ],
   "link_checks": [
     {
-      "id": "allscale-points",
+      "id": "bingx-card-spending-nov26",
       "http": 200
     },
     {
-      "id": "leonardo-leo20",
+      "id": "standx-dusd-claim",
       "http": 200
     },
     {
-      "id": "kalos-testnet-points",
+      "id": "mexc-global-card",
       "http": 200
     },
     {
-      "id": "hsbc-hk-mainland-dining-3pct",
+      "id": "scb-hk-priority-private",
       "http": 200
     },
     {
-      "id": "deskrest-lifetime-5",
-      "http": 403
-    },
-    {
-      "id": "software-firefox-vpn-unlimited",
+      "id": "perplexity-edu-pro-half",
       "http": 200
     },
     {
-      "id": "bybit-card-welcome-120",
-      "http": 403
-    },
-    {
-      "id": "azure-for-students-100",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     },
     {
-      "id": "aster-stage6-claim",
+      "id": "bingx-winter-deposit-nov26",
       "http": 200
     },
     {
-      "id": "hsbc-premier-3000",
+      "id": "grass-stage2-usdc-claim",
+      "http": 200
+    },
+    {
+      "id": "dbs-treasures-hk-53800",
+      "http": 200
+    },
+    {
+      "id": "railway-free-vm-ssh",
       "http": 200
     }
   ],
