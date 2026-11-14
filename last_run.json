@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-14T12:30:04Z",
+  "run_at": "2026-11-14T13:00:24Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -55,44 +55,44 @@
   ],
   "link_checks": [
     {
-      "id": "bydfi-ai-token-fiesta",
+      "id": "allscale-points",
       "http": 200
     },
     {
-      "id": "suno-free-plan-50",
+      "id": "leonardo-leo20",
       "http": 200
     },
     {
-      "id": "openart-90-credits",
+      "id": "kalos-testnet-points",
       "http": 200
     },
     {
-      "id": "voibe-bfcm26",
+      "id": "hsbc-hk-mainland-dining-3pct",
       "http": 200
     },
     {
-      "id": "htx-mapo-bonanza-nov26",
+      "id": "deskrest-lifetime-5",
+      "http": 403
+    },
+    {
+      "id": "ai-gemini-4-hydrogen-free",
       "http": 200
     },
     {
-      "id": "google-ai-pro-student-year",
+      "id": "keybank-select-500",
       "http": 200
     },
     {
-      "id": "github-student-pack",
+      "id": "aws-free-plan-200",
       "http": 200
     },
     {
-      "id": "ai-qiniu-conatus-2026",
+      "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "chase-total-checking-400",
-      "http": 200
-    },
-    {
-      "id": "oracle-always-free",
-      "http": 200
+      "id": "sofi-checking-400",
+      "http": 403
     }
   ],
   "total_deals": 63

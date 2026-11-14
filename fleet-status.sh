@@ -31,6 +31,8 @@ AF_ICEI=$(code https://dealhunter.iceiy.com/)
 # --- Status mapping ---
 # Cloady: any HTTP response (incl. 404) = platform reachable
 if [ "$USW" != "000" ]; then CL_STATUS="online"; else CL_STATUS="offline"; fi
+# 404 is the node's normal response (VLESS proxy, no web page) — say so plainly
+if [ "$USW" = "404" ]; then CL_DETAIL="usw-node 在线（404 为代理节点正常响应）"; else CL_DETAIL="usw-node HTTP $USW"; fi
 if [ "$LXI_HOME" = "200" ]; then LXI_STATUS="online"; else LXI_STATUS="offline"; fi
 if [ "$TH_HTTPS" = "200" ] || [ "$TH_HTTP" = "200" ]; then TH_STATUS="online"; else TH_STATUS="offline"; fi
 AF_OK=0
@@ -43,7 +45,7 @@ cat > fleet-status.json <<EOF
   "updated_at": "$NOW",
   "items": {
     "instabox": {"status": "$IB_STATUS", "detail": "$UPTIME；xray $XRAY；代理端口 $PORTS；采集循环 $COLLECTOR"},
-    "cloady": {"status": "$CL_STATUS", "detail": "usw-node HTTP $USW"},
+    "cloady": {"status": "$CL_STATUS", "detail": "$CL_DETAIL"},
     "lxi": {"status": "$LXI_STATUS", "detail": "首页 HTTP $LXI_HOME，配置 HTTP $LXI_JSON"},
     "tinkerhost": {"status": "$TH_STATUS", "detail": "HTTP $TH_HTTP，HTTPS $TH_HTTPS"},
     "aeonfree": {"status": "$AF_STATUS", "detail": "$AF_OK/3 在线（zya $AF_ZYA，hstn $AF_HSTN，iceiy $AF_ICEI）"}
