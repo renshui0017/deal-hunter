@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-14T09:26:26Z",
+  "updated_at": "2026-11-14T09:41:34Z",
   "items": {
-    "instabox": {"status": "running", "detail": "up 1 day, 7 hours, 8 minutes；xray none；代理端口 none；采集循环 running"},
+    "instabox": {"status": "running", "detail": "up 1 day, 7 hours, 23 minutes；xray none；代理端口 none；采集循环 running"},
     "cloady": {"status": "online", "detail": "usw-node HTTP 404"},
     "lxi": {"status": "online", "detail": "首页 HTTP 200，配置 HTTP 200"},
     "tinkerhost": {"status": "online", "detail": "HTTP 200，HTTPS 200"},
