@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-14T05:06:04Z",
+  "run_at": "2026-11-14T06:37:25Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -14,8 +14,9 @@
     },
     {
       "name": "Reddit r/CryptoAirdrop",
-      "ok": false,
-      "error": "HTTP 429"
+      "ok": true,
+      "entries": 25,
+      "new": 0
     },
     {
       "name": "free-nodes releases",
@@ -55,43 +56,43 @@
   ],
   "link_checks": [
     {
-      "id": "allscale-points",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     },
     {
-      "id": "leonardo-leo20",
+      "id": "bingx-winter-deposit-nov26",
       "http": 200
     },
     {
-      "id": "kalos-testnet-points",
+      "id": "grass-stage2-usdc-claim",
       "http": 200
     },
     {
-      "id": "hsbc-hk-mainland-dining-3pct",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     },
     {
-      "id": "deskrest-lifetime-5",
-      "http": 403
-    },
-    {
-      "id": "bingx-card-spending-nov26",
+      "id": "railway-free-vm-ssh",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "google-ai-pro-student-year",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "github-student-pack",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "perplexity-edu-pro-half",
+      "id": "chase-total-checking-400",
+      "http": 200
+    },
+    {
+      "id": "oracle-always-free",
       "http": 200
     }
   ],
