@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T00:03:55Z",
+  "updated_at": "2026-11-14T00:51:35Z",
   "deals": [
     {
       "category": "ai",
@@ -320,7 +320,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 22:33 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "ucard",
@@ -349,7 +349,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-13 22:33 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "vps",
@@ -377,7 +377,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 22:33 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "crypto",
@@ -405,7 +405,7 @@
       "value_score": 70,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 22:33 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "bank",
@@ -433,7 +433,7 @@
       "value_score": 70,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 22:33 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "crypto",
@@ -1162,7 +1162,7 @@
       "value_score": 45,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 21:43 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "ai",
@@ -1190,7 +1190,7 @@
       "value_score": 45,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 21:43 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "crypto",
@@ -1218,7 +1218,7 @@
       "value_score": 40,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 21:43 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "bank",
@@ -1246,7 +1246,7 @@
       "value_score": 40,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 21:43 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "software",
@@ -1274,7 +1274,7 @@
       "value_score": 30,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-13 21:43 UTC"
+      "last_checked": "2026-11-14 00:51 UTC"
     },
     {
       "category": "bank",
@@ -1438,6 +1438,78 @@
       "official_link_verified": false
     },
     {
+      "id": "auto-fa3e52c13129",
+      "name": "Best Free Crypto Airdrop",
+      "category": "crypto",
+      "summary": "Let's conquer this Airdrop. There is a possibility of withdraw adres recently! https://t.me/XBlastAppBot/App?startapp=JMFW9R  &#32; submitted by &#32;  /u/Kikuteq   [link] &#32; [comments]",
+      "value": "待核实",
+      "value_score": 55,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bxdoxw/best_free_crypto_airdrop/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bxdoxw/best_free_crypto_airdrop/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "真正免费"
+    },
+    {
+      "id": "auto-8cc358edf4d4",
+      "name": "FREE GRASS AIRDROP",
+      "category": "crypto",
+      "summary": "HEYYY, JOIN THIS AIRDROP, IT'S GOING TO EXPLODE, BESIDES IT'S ALL FREE IT'S NOW OR NEVER!!! loveu guysss https://app.getgrass.io/register/?referralCode=Aoblx_6HTmfWVNM   &#32; submitted by &#32;  /u/pykeplayerr22   [link] &#32; [comments]",
+      "value": "待核实",
+      "value_score": 55,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwxvua/free_grass_airdrop/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwxvua/free_grass_airdrop/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "需要邀请"
+    },
+    {
+      "id": "auto-297972190d14",
+      "name": "Archway Airdrop on Cosmos ecosystem, - Less than 3 days left!",
+      "category": "crypto",
+      "summary": " Less than 3 days left to participate in the Archway Drop Camp airdrop campaing Link to the campaing https://connect.archway.io/dropcamp?code=jg74d (ref code jg74d) The campaing consists of a bunch of free social tasks and then there are also on-chain and ecosystem tasks. You can do only the social ",
+      "value": "待核实",
+      "value_score": 55,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwrqw9/archway_airdrop_on_cosmos_ecosystem_less_than_3/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwrqw9/archway_airdrop_on_cosmos_ecosystem_less_than_3/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "真正免费"
+    },
+    {
       "category": "vps",
       "conditions": "注册时输入优惠码 N8FV3F；需绑定国际信用卡/借记卡验证身份（可能有 $1–2 临时预授权，随即释放）；额度 60 天内有效，过期作废；数据中心含新加坡、东京、悉尼等",
       "cost_type": "免费试用",
@@ -1518,6 +1590,150 @@
       "value_score": 40,
       "verified_at": "2026-11-13",
       "official_link_verified": false
+    },
+    {
+      "id": "auto-52fe9a162b88",
+      "name": "Bob Fusion x Early Airdrop",
+      "category": "crypto",
+      "summary": "Website -&gt; https://fusion.gobob.xyz/ Combines liquidity and security from Bitcoin and Ethereum. Mainnet in April. Backers -&gt; Castle Island, Mechanism Capital, CMS etc. 132 m $ TVL rn, we are sort of early. Early access invite code -&gt; b6zyz4  &#32; submitted by &#32;  /u/alpingo232   [link] ",
+      "value": "待核实",
+      "value_score": 40,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bxcdqy/bob_fusion_x_early_airdrop/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bxcdqy/bob_fusion_x_early_airdrop/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "需要邀请"
+    },
+    {
+      "id": "auto-303df2e14339",
+      "name": "BLAST airdrop upcoming in MAY",
+      "category": "crypto",
+      "summary": "Bridge ETH to BLAST to be eligible for UPCOMING BLAST AIRDROP THIS IS A BANGER GUYS DON'T FADE SIGN UP HERE blast.io/XQUJ6   [link] &#32; [comments]",
+      "value": "待核实",
+      "value_score": 40,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bx64mp/blast_airdrop_upcoming_in_may/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bx64mp/blast_airdrop_upcoming_in_may/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "待核实"
+    },
+    {
+      "id": "auto-573861fd79c1",
+      "name": "Moon Airdrop TG",
+      "category": "crypto",
+      "summary": "@nearharvestmoonbot Greetings friends, Harvest Moon is a mining bot supported by Meteor Wallet. It uses the Near infrastructure. The logic of the bot is very simple, the more you can develop your miners, the better you can mine. Also, the total coins in hand are not ranked, the mining power affects ",
+      "value": "待核实",
+      "value_score": 40,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bx41df/moon_airdrop_tg/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bx41df/moon_airdrop_tg/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "待核实"
+    },
+    {
+      "id": "auto-914f95a7b2b3",
+      "name": "Eesee.io Confirmed Airdrop not much time left",
+      "category": "crypto",
+      "summary": "Hi all, eesee.io's mainnet is live and the window for the airdrop is coming to an end get as many points before its too late. Interact with their platform and complete quests to be eligible for their upcoming $ESE token airdrop. This project is backed by leading crypto investors and partners. I beli",
+      "value": "待核实",
+      "value_score": 40,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwkm12/eeseeio_confirmed_airdrop_not_much_time_left/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwkm12/eeseeio_confirmed_airdrop_not_much_time_left/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "需要邀请"
+    },
+    {
+      "id": "auto-73774ec54cac",
+      "name": "MODE L2 airdrop. Still early. Anyone can join.",
+      "category": "crypto",
+      "summary": "      &#32; submitted by &#32;  /u/corporate_guy   [link] &#32; [comments] ",
+      "value": "待核实",
+      "value_score": 40,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwhvsf/mode_l2_airdrop_still_early_anyone_can_join/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bwhvsf/mode_l2_airdrop_still_early_anyone_can_join/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "待核实"
+    },
+    {
+      "id": "auto-c5599cf9eb80",
+      "name": "Upland $SPARKLE AIRDROP",
+      "category": "crypto",
+      "summary": "      Finally it's happening UPLAND has changed their native token $SPARK to $SPARKLE and have just launch the airdrop. Don't miss your chance join UPLAND today own your piece of the metaverse. Signup bonus for new users, plus entry into the airdrop. CLICK HERE. .  &#32; submitted by &#32;  /u/Exten",
+      "value": "待核实",
+      "value_score": 40,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bw23az/upland_sparkle_airdrop/",
+      "source": "Reddit r/CryptoAirdrop",
+      "source_link": "https://www.reddit.com/r/CryptoAirdrop/comments/1bw23az/upland_sparkle_airdrop/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "待核实"
     }
   ]
 }

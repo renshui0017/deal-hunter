@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-14T00:03:55Z",
+  "run_at": "2026-11-14T00:51:35Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -14,8 +14,9 @@
     },
     {
       "name": "Reddit r/CryptoAirdrop",
-      "ok": false,
-      "error": "HTTP 429"
+      "ok": true,
+      "entries": 25,
+      "new": 9
     },
     {
       "name": "free-nodes releases",
@@ -24,7 +25,7 @@
       "new": 0
     }
   ],
-  "new_items": 0,
+  "new_items": 9,
   "expired_items": 0,
   "page_changes": [
     {
@@ -55,45 +56,45 @@
   ],
   "link_checks": [
     {
-      "id": "bydfi-ai-token-fiesta",
+      "id": "allscale-points",
       "http": 200
     },
     {
-      "id": "suno-free-plan-50",
+      "id": "leonardo-leo20",
       "http": 200
     },
     {
-      "id": "openart-90-credits",
+      "id": "kalos-testnet-points",
       "http": 200
     },
     {
-      "id": "voibe-bfcm26",
+      "id": "hsbc-hk-mainland-dining-3pct",
       "http": 200
     },
     {
-      "id": "htx-mapo-bonanza-nov26",
-      "http": 200
-    },
-    {
-      "id": "ai-gemini-4-hydrogen-free",
-      "http": 200
-    },
-    {
-      "id": "keybank-select-500",
-      "http": 200
-    },
-    {
-      "id": "aws-free-plan-200",
-      "http": 200
-    },
-    {
-      "id": "ai-ant-ling-32-flash-free",
-      "http": 200
-    },
-    {
-      "id": "sofi-checking-400",
+      "id": "deskrest-lifetime-5",
       "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
+      "http": 200
+    },
+    {
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
+      "http": 200
+    },
+    {
+      "id": "aster-stage6-claim",
+      "http": 200
+    },
+    {
+      "id": "hsbc-premier-3000",
+      "http": 200
     }
   ],
-  "total_deals": 54
+  "total_deals": 63
 }
