@@ -20,6 +20,7 @@ if [ "$XRAY" = "none" ] && [ "$PORTS" = "none" ]; then IB_STATUS="running"; else
 
 # --- Websites (browser UA required: iFastNet kills UA-less connections) ---
 USW=$(code https://usw-node-phtg3epy-usw1-free-8.cloady.io/)
+RADAR=$(code https://freebie-radar-yvi7lw48-usw1-free-8.cloady.io/health)
 LXI_HOME=$(code https://daddy1369.lxi.be/)
 LXI_JSON=$(code https://daddy1369.lxi.be/hg-48919cccd3.json)
 TH_HTTP=$(code http://daddy1369.thsite.top/)
@@ -33,6 +34,8 @@ AF_ICEI=$(code https://dealhunter.iceiy.com/)
 if [ "$USW" != "000" ]; then CL_STATUS="online"; else CL_STATUS="offline"; fi
 # 404 is the node's normal response (VLESS proxy, no web page) — say so plainly
 if [ "$USW" = "404" ]; then CL_DETAIL="usw-node 在线（404 为代理节点正常响应）"; else CL_DETAIL="usw-node HTTP $USW"; fi
+# Radar health check doubles as keep-alive (free apps pause after 7 days with no visits)
+if [ "$RADAR" = "200" ]; then CL_DETAIL="$CL_DETAIL；白嫖雷达在线"; else CL_DETAIL="$CL_DETAIL；白嫖雷达 HTTP $RADAR"; fi
 if [ "$LXI_HOME" = "200" ]; then LXI_STATUS="online"; else LXI_STATUS="offline"; fi
 if [ "$TH_HTTPS" = "200" ] || [ "$TH_HTTP" = "200" ]; then TH_STATUS="online"; else TH_STATUS="offline"; fi
 AF_OK=0
