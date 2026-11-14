@@ -17,4 +17,14 @@ git push -q origin main || exit 1
 for f in deals.json last_run.json archive.json; do
   curl -fsS -o /dev/null "https://purge.jsdelivr.net/gh/renshui0017/deal-hunter@main/$f" || true
 done
+
+# Mirror to LXI (mainland-reachable fallback for the dashboard).
+# LXI's WAF blocks raw deal JSON, so the body is base64-encoded.
+if [ -f .mirror-token ]; then
+  . ./.mirror-token
+  for f in deals.json last_run.json archive.json; do
+    base64 -w0 "$f" | curl -fsS -o /dev/null -X POST -H "X-Upload-Token: $MIRROR_TOKEN" --data-binary @- "https://daddy1369.lxi.be/deal-hunter/upload.php?file=$f" || echo "mirror upload failed: $f"
+  done
+  echo "mirrored to LXI"
+fi
 echo "pushed + jsDelivr purged"
