@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T16:35:28Z",
+  "updated_at": "2026-11-15T17:05:46Z",
   "deals": [
     {
       "category": "ai",
@@ -320,7 +320,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 13:16 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "ucard",
@@ -349,7 +349,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-15 13:16 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "vps",
@@ -377,7 +377,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 13:16 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "crypto",
@@ -405,7 +405,7 @@
       "value_score": 70,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 13:16 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "bank",
@@ -433,7 +433,7 @@
       "value_score": 70,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 13:16 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "crypto",
@@ -602,7 +602,7 @@
       "value_score": 60,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 12:45 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "crypto",
@@ -630,7 +630,7 @@
       "value_score": 60,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 12:45 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "crypto",
@@ -658,7 +658,7 @@
       "value_score": 60,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 12:45 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "bank",
@@ -686,7 +686,7 @@
       "value_score": 60,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-15 12:45 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "vps",
@@ -714,7 +714,7 @@
       "value_score": 60,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-15 12:45 UTC"
+      "last_checked": "2026-11-15 17:05 UTC"
     },
     {
       "category": "software",
@@ -1275,6 +1275,30 @@
       "verified_at": "2026-11-13",
       "official_link_verified": false,
       "last_checked": "2026-11-15 16:35 UTC"
+    },
+    {
+      "id": "auto-ec31b63266ba",
+      "name": "Free Lifetime access to appx.work - planner, notes, kanban boards & focus workspace (Nov 11 to Black Friday)",
+      "category": "software",
+      "summary": "      Appx.work is offering free lifetime access for Nov 11 to Black Friday - Usually $1.99/month. Link to claim: https://www.appx.work/pricing  &#32; submitted by &#32;  /u/Space_Alternative   [link] &#32; [comments] ",
+      "value": "待核实",
+      "value_score": 85,
+      "conditions": "待核实（自动采集，需人工确认）",
+      "regions": [
+        "待核实"
+      ],
+      "start": null,
+      "end": null,
+      "steps": [
+        "打开官方链接查看活动规则"
+      ],
+      "official_link": "https://www.reddit.com/r/freebies/comments/1xx089i/free_lifetime_access_to_appxwork_planner_notes/",
+      "source": "Reddit r/freebies",
+      "source_link": "https://www.reddit.com/r/freebies/comments/1xx089i/free_lifetime_access_to_appxwork_planner_notes/",
+      "verified_at": null,
+      "status": "unverified",
+      "risk": "自动采集，未经人工验证；参与前请核对官方页面",
+      "cost_type": "真正免费"
     },
     {
       "category": "bank",
