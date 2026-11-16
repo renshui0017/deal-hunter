@@ -1,15 +1,17 @@
 {
-  "run_at": "2026-11-16T15:30:14Z",
+  "run_at": "2026-11-16T16:22:56Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
-      "ok": false,
-      "error": "HTTP 429"
+      "ok": true,
+      "entries": 25,
+      "new": 0
     },
     {
       "name": "Reddit r/beermoney",
-      "ok": false,
-      "error": "HTTP 429"
+      "ok": true,
+      "entries": 25,
+      "new": 0
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -54,43 +56,43 @@
   ],
   "link_checks": [
     {
-      "id": "uupay-virtual-card",
+      "id": "bydfi-ai-token-fiesta",
       "http": 200
     },
     {
-      "id": "icbc-asia-supermarket-15",
+      "id": "suno-free-plan-50",
       "http": 200
     },
     {
-      "id": "midjourney-annual-20off",
+      "id": "openart-90-credits",
       "http": 200
     },
     {
-      "id": "asentum-testnet-xp",
+      "id": "voibe-bfcm26",
       "http": 200
     },
     {
-      "id": "monolith-swan-holding",
+      "id": "htx-mapo-bonanza-nov26",
       "http": 200
     },
     {
-      "id": "software-firefox-vpn-unlimited",
+      "id": "bingx-card-spending-nov26",
       "http": 200
     },
     {
-      "id": "bybit-card-welcome-120",
-      "http": 403
-    },
-    {
-      "id": "azure-for-students-100",
+      "id": "standx-dusd-claim",
       "http": 200
     },
     {
-      "id": "aster-stage6-claim",
+      "id": "mexc-global-card",
       "http": 200
     },
     {
-      "id": "hsbc-premier-3000",
+      "id": "scb-hk-priority-private",
+      "http": 200
+    },
+    {
+      "id": "perplexity-edu-pro-half",
       "http": 200
     }
   ],
