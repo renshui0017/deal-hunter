@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-16T07:38:18Z",
+  "run_at": "2026-11-16T08:08:33Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -14,8 +14,9 @@
     },
     {
       "name": "Reddit r/CryptoAirdrop",
-      "ok": false,
-      "error": "HTTP 429"
+      "ok": true,
+      "entries": 25,
+      "new": 0
     },
     {
       "name": "free-nodes releases",
@@ -55,43 +56,43 @@
   ],
   "link_checks": [
     {
-      "id": "uupay-virtual-card",
+      "id": "bydfi-ai-token-fiesta",
       "http": 200
     },
     {
-      "id": "icbc-asia-supermarket-15",
+      "id": "suno-free-plan-50",
       "http": 200
     },
     {
-      "id": "midjourney-annual-20off",
+      "id": "openart-90-credits",
       "http": 200
     },
     {
-      "id": "asentum-testnet-xp",
+      "id": "voibe-bfcm26",
       "http": 200
     },
     {
-      "id": "monolith-swan-holding",
+      "id": "htx-mapo-bonanza-nov26",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "google-ai-pro-student-year",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "github-student-pack",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "chase-total-checking-400",
       "http": 200
     },
     {
-      "id": "perplexity-edu-pro-half",
+      "id": "oracle-always-free",
       "http": 200
     }
   ],
