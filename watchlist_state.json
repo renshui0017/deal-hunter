@@ -1,11 +1,11 @@
 {
   "https://ai.google.dev/gemini-api/docs/pricing": {
     "status": 200,
-    "hash": "64e6b650c4c44c04"
+    "hash": "8a37011a9bf4f977"
   },
   "https://www.anthropic.com/pricing": {
     "status": 200,
-    "hash": "eac256a2e48b8032"
+    "hash": "0bcb98fc9e3ce6b2"
   },
   "https://openai.com/api/pricing/": {
     "status": 403,
@@ -13,14 +13,14 @@
   },
   "https://education.github.com/pack": {
     "status": 200,
-    "hash": "cad3683d5cc57bb7"
+    "hash": "b41cc7771a9440b3"
   },
   "https://www.oracle.com/cloud/free/": {
     "status": 200,
-    "hash": "42fe5e6fae8c0b12"
+    "hash": "bd53f179dfabe74d"
   },
   "https://www.cloudflare.com/plans/free/": {
     "status": 200,
-    "hash": "1114aa8fbaac6dae"
+    "hash": "b6814698473b41aa"
   }
 }
