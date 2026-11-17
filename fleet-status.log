@@ -187,3 +187,9 @@ fleet status updated 2026-11-16T22:45:23Z
 fleet status updated 2026-11-16T23:00:33Z
 fleet status updated 2026-11-16T23:15:45Z
 fleet status updated 2026-11-16T23:30:55Z
+curl: (22) The requested URL returned error: 503
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-16T23:46:12Z
+curl: (22) The requested URL returned error: 503
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-17T00:01:30Z
