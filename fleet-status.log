@@ -247,3 +247,14 @@ fleet status updated 2026-11-17T04:35:04Z
 curl: (22) The requested URL returned error: 503
 mirror upload failed: fleet-status.json
 fleet status updated 2026-11-17T04:50:13Z
+To github.com:renshui0017/deal-hunter.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 270780f7d588be88b8db2b4e5c77ef0146dcd1ba but expected 277c32801ecbf82235659cd34ae3021c924c77af)
+error: failed to push some refs to 'github.com:renshui0017/deal-hunter.git'
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+curl: (22) The requested URL returned error: 503
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-17T05:05:21Z
+curl: (22) The requested URL returned error: 503
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-17T05:20:51Z
