@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T08:38:08Z",
+  "updated_at": "2026-11-17T09:08:41Z",
   "deals": [
     {
       "category": "ai",
@@ -320,7 +320,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 07:06 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "ucard",
@@ -349,7 +349,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-17 07:06 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "vps",
@@ -377,7 +377,7 @@
       "value_score": 75,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 07:06 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "crypto",
@@ -405,7 +405,7 @@
       "value_score": 70,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 07:06 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "bank",
@@ -433,7 +433,7 @@
       "value_score": 70,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 07:06 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "crypto",
@@ -1162,7 +1162,7 @@
       "value_score": 45,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 06:36 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "ai",
@@ -1190,7 +1190,7 @@
       "value_score": 45,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 06:36 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "crypto",
@@ -1218,7 +1218,7 @@
       "value_score": 40,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 06:36 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "bank",
@@ -1246,7 +1246,7 @@
       "value_score": 40,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 06:36 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "category": "software",
@@ -1274,7 +1274,7 @@
       "value_score": 30,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-17 06:36 UTC"
+      "last_checked": "2026-11-17 09:08 UTC"
     },
     {
       "id": "auto-ec31b63266ba",
