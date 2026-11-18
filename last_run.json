@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-18T04:19:00Z",
+  "run_at": "2026-11-18T04:49:32Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -55,42 +55,42 @@
   "link_checks": [
     {
       "id": "htx-mapo-bonanza-nov26",
-      "http": "error: HTTPSConnectionPool(host='www.stos09.com', port=443): Read timed out. (re"
-    },
-    {
-      "id": "allscale-points",
       "http": 200
     },
     {
-      "id": "leonardo-leo20",
-      "http": 200
-    },
-    {
-      "id": "kalos-testnet-points",
-      "http": 200
-    },
-    {
-      "id": "hsbc-hk-mainland-dining-3pct",
-      "http": 200
-    },
-    {
-      "id": "deskrest-lifetime-5",
+      "id": "sofi-checking-400",
       "http": 403
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "bingx-winter-deposit-nov26",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
+      "id": "grass-stage2-usdc-claim",
       "http": 200
     },
     {
-      "id": "ai-ant-ling-32-flash-free",
+      "id": "dbs-treasures-hk-53800",
+      "http": 200
+    },
+    {
+      "id": "railway-free-vm-ssh",
+      "http": 200
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
+      "http": 200
+    },
+    {
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     }
   ],
