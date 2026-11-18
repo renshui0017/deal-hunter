@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:18:12Z",
+  "updated_at": "2026-11-18T03:48:31Z",
   "deals": [
     {
       "category": "ai",
@@ -29,7 +29,7 @@
       "value_score": 90,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 01:47 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "software",
@@ -57,7 +57,7 @@
       "value_score": 90,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-18 01:47 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "ai",
@@ -86,7 +86,7 @@
       "value_score": 88,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-18 01:47 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "bank",
@@ -115,7 +115,7 @@
       "value_score": 85,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 01:47 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "vps",
@@ -143,7 +143,7 @@
       "value_score": 85,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 01:47 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "ai",
@@ -1022,7 +1022,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 01:16 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "ai",
@@ -1050,7 +1050,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 01:16 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "ai",
@@ -1078,7 +1078,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 01:16 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "software",
@@ -1106,7 +1106,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-18 01:16 UTC"
+      "last_checked": "2026-11-18 03:48 UTC"
     },
     {
       "category": "crypto",
