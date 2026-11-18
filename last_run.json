@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-18T19:24:50Z",
+  "run_at": "2026-11-18T19:56:10Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -55,42 +55,42 @@
   "link_checks": [
     {
       "id": "uupay-virtual-card",
-      "http": "error: HTTPSConnectionPool(host='cryptocardbest.com', port=443): Read timed out."
+      "http": 200
     },
     {
       "id": "icbc-asia-supermarket-15",
-      "http": "error: HTTPSConnectionPool(host='www.ttshuoka.com', port=443): Read timed out. ("
+      "http": 200
     },
     {
       "id": "midjourney-annual-20off",
-      "http": "error: HTTPSConnectionPool(host='aicredits.tech', port=443): Read timed out. (re"
-    },
-    {
-      "id": "asentum-testnet-xp",
       "http": 200
     },
     {
-      "id": "monolith-swan-holding",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     },
     {
-      "id": "google-ai-pro-student-year",
+      "id": "bydfi-ai-token-fiesta",
       "http": 200
     },
     {
-      "id": "github-student-pack",
+      "id": "suno-free-plan-50",
       "http": 200
     },
     {
-      "id": "ai-qiniu-conatus-2026",
+      "id": "openart-90-credits",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "voibe-bfcm26",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "chase-total-checking-400",
+      "http": 200
+    },
+    {
+      "id": "oracle-always-free",
       "http": 200
     }
   ],
