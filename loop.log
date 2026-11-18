@@ -597,3 +597,15 @@ done: +0 new, 0 expired, 64 deals total, 4 sources
 mirrored to LXI
 pushed + jsDelivr purged
 done: +0 new, 0 expired, 64 deals total, 4 sources
+curl: (7) Failed to connect to purge.jsdelivr.net port 443 after 28 ms: Could not connect to server
+curl: (7) Failed to connect to purge.jsdelivr.net port 443 after 24 ms: Could not connect to server
+curl: (7) Failed to connect to purge.jsdelivr.net port 443 after 21 ms: Could not connect to server
+curl: (7) Failed to connect to daddy1369.lxi.be port 443 after 377 ms: Could not connect to server
+mirror upload failed: deals.json
+curl: (7) Failed to connect to daddy1369.lxi.be port 443 after 173 ms: Could not connect to server
+mirror upload failed: last_run.json
+curl: (7) Failed to connect to daddy1369.lxi.be port 443 after 205 ms: Could not connect to server
+mirror upload failed: archive.json
+mirrored to LXI
+pushed + jsDelivr purged
+done: +0 new, 0 expired, 64 deals total, 4 sources

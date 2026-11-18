@@ -1,25 +1,26 @@
 {
-  "run_at": "2026-11-18T09:01:14Z",
+  "run_at": "2026-11-18T09:31:19Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
       "ok": false,
-      "error": "parse error: <urlopen error [Errno 111] Connection refused>"
+      "error": "HTTP 404"
     },
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "parse error: <urlopen error [Errno 111] Connection refused>"
+      "error": "HTTP 429"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
       "ok": false,
-      "error": "parse error: <urlopen error [Errno 111] Connection refused>"
+      "error": "HTTP 429"
     },
     {
       "name": "free-nodes releases",
-      "ok": false,
-      "error": "parse error: <urlopen error [Errno 111] Connection refused>"
+      "ok": true,
+      "entries": 0,
+      "new": 0
     }
   ],
   "new_items": 0,
@@ -28,74 +29,74 @@
     {
       "name": "Gemini API 定价页",
       "url": "https://ai.google.dev/gemini-api/docs/pricing",
-      "note": "抓取失败：HTTPSConnectionPool(host='ai.google.dev', port=443): Max retries exceeded with url: /gemini-api/docs/pricing (Cause"
+      "note": "HTTP 状态变化：error → 200"
     },
     {
       "name": "Anthropic 定价页",
       "url": "https://www.anthropic.com/pricing",
-      "note": "抓取失败：HTTPSConnectionPool(host='www.anthropic.com', port=443): Max retries exceeded with url: /pricing (Caused by NewConn"
+      "note": "HTTP 状态变化：error → 200"
     },
     {
       "name": "OpenAI API 定价页",
       "url": "https://openai.com/api/pricing/",
-      "note": "抓取失败：HTTPSConnectionPool(host='openai.com', port=443): Max retries exceeded with url: /api/pricing/ (Caused by NewConnec"
+      "note": "HTTP 状态变化：error → 403"
     },
     {
       "name": "GitHub Student Pack",
       "url": "https://education.github.com/pack",
-      "note": "抓取失败：HTTPSConnectionPool(host='education.github.com', port=443): Max retries exceeded with url: /pack (Caused by NewConn"
+      "note": "HTTP 状态变化：error → 200"
     },
     {
       "name": "Oracle Cloud 免费层",
       "url": "https://www.oracle.com/cloud/free/",
-      "note": "抓取失败：HTTPSConnectionPool(host='www.oracle.com', port=443): Max retries exceeded with url: /cloud/free/ (Caused by NewCon"
+      "note": "HTTP 状态变化：error → 200"
     },
     {
       "name": "Cloudflare 免费计划",
       "url": "https://www.cloudflare.com/plans/free/",
-      "note": "抓取失败：HTTPSConnectionPool(host='www.cloudflare.com', port=443): Max retries exceeded with url: /plans/free/ (Caused by Ne"
+      "note": "HTTP 状态变化：error → 200"
     }
   ],
   "link_checks": [
     {
       "id": "uupay-virtual-card",
-      "http": "error: HTTPSConnectionPool(host='cryptocardbest.com', port=443): Max retries exc"
+      "http": 200
     },
     {
       "id": "icbc-asia-supermarket-15",
-      "http": "error: HTTPSConnectionPool(host='www.ttshuoka.com', port=443): Max retries excee"
+      "http": 200
     },
     {
       "id": "midjourney-annual-20off",
-      "http": "error: HTTPSConnectionPool(host='aicredits.tech', port=443): Max retries exceede"
+      "http": 200
     },
     {
       "id": "asentum-testnet-xp",
-      "http": "error: HTTPSConnectionPool(host='www.airdroptracker.io', port=443): Max retries "
+      "http": 200
     },
     {
       "id": "monolith-swan-holding",
-      "http": "error: HTTPSConnectionPool(host='www.bitrue.com', port=443): Max retries exceede"
+      "http": 200
     },
     {
       "id": "chase-total-checking-400",
-      "http": "error: HTTPSConnectionPool(host='www.bankrate.com', port=443): Max retries excee"
+      "http": 200
     },
     {
       "id": "oracle-always-free",
-      "http": "error: HTTPSConnectionPool(host='www.lilachbullock.com', port=443): Max retries "
+      "http": 200
     },
     {
       "id": "ai-gemini-4-hydrogen-free",
-      "http": "error: HTTPSConnectionPool(host='aistudio.google.com', port=443): Max retries ex"
+      "http": 200
     },
     {
       "id": "keybank-select-500",
-      "http": "error: HTTPSConnectionPool(host='wallethub.com', port=443): Max retries exceeded"
+      "http": 200
     },
     {
       "id": "aws-free-plan-200",
-      "http": "error: HTTPSConnectionPool(host='www.lilachbullock.com', port=443): Max retries "
+      "http": 200
     }
   ],
   "total_deals": 64
