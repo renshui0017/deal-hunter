@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-18T21:27:03Z",
+  "run_at": "2026-11-18T22:19:48Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -9,7 +9,7 @@
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "HTTP 404"
+      "error": "HTTP 429"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -54,43 +54,43 @@
   ],
   "link_checks": [
     {
-      "id": "hsbc-premier-3000",
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "bingx-card-spending-nov26",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "scb-hk-priority-private",
       "http": 200
     },
     {
-      "id": "appsumo-black-friday-2026",
+      "id": "asentum-testnet-xp",
       "http": 200
     },
     {
-      "id": "other-free-nodes-zhuhaiuk",
+      "id": "monolith-swan-holding",
       "http": 200
     },
     {
-      "id": "mexc-daily-checkin-s2",
+      "id": "chase-total-checking-400",
       "http": 200
     },
     {
-      "id": "bydfi-fiat-fiesta-nov26",
+      "id": "oracle-always-free",
       "http": 200
     },
     {
-      "id": "bitunix-new-user-rewards",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     },
     {
-      "id": "google-ai-pro-student-year",
+      "id": "uupay-virtual-card",
       "http": 200
     },
     {
-      "id": "github-student-pack",
+      "id": "icbc-asia-supermarket-15",
       "http": 200
     }
   ],
