@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-18T10:55:38Z",
+  "run_at": "2026-11-18T11:34:16Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -54,43 +54,43 @@
   ],
   "link_checks": [
     {
-      "id": "allscale-points",
+      "id": "bingx-winter-deposit-nov26",
       "http": 200
     },
     {
-      "id": "leonardo-leo20",
+      "id": "grass-stage2-usdc-claim",
       "http": 200
     },
     {
-      "id": "kalos-testnet-points",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     },
     {
-      "id": "hsbc-hk-mainland-dining-3pct",
+      "id": "railway-free-vm-ssh",
       "http": 200
     },
     {
-      "id": "deskrest-lifetime-5",
-      "http": 403
-    },
-    {
-      "id": "aster-stage6-claim",
+      "id": "htx-mapo-bonanza-nov26",
       "http": 200
     },
     {
-      "id": "hsbc-premier-3000",
+      "id": "google-ai-pro-student-year",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "github-student-pack",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "scb-hk-priority-private",
+      "http": 200
+    },
+    {
+      "id": "perplexity-edu-pro-half",
       "http": 200
     }
   ],
