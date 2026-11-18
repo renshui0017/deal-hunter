@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-18T17:32:07Z",
+  "run_at": "2026-11-18T18:24:16Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -54,44 +54,44 @@
   ],
   "link_checks": [
     {
-      "id": "perplexity-edu-pro-half",
+      "id": "aws-free-plan-200",
       "http": 200
     },
     {
-      "id": "allscale-points",
+      "id": "bingx-winter-deposit-nov26",
       "http": 200
     },
     {
-      "id": "leonardo-leo20",
+      "id": "grass-stage2-usdc-claim",
       "http": 200
     },
     {
-      "id": "kalos-testnet-points",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     },
     {
-      "id": "hsbc-hk-mainland-dining-3pct",
+      "id": "railway-free-vm-ssh",
       "http": 200
     },
     {
-      "id": "deskrest-lifetime-5",
+      "id": "htx-mapo-bonanza-nov26",
+      "http": 200
+    },
+    {
+      "id": "ai-ant-ling-32-flash-free",
+      "http": 200
+    },
+    {
+      "id": "sofi-checking-400",
       "http": 403
     },
     {
-      "id": "chase-total-checking-400",
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "oracle-always-free",
-      "http": 200
-    },
-    {
-      "id": "ai-gemini-4-hydrogen-free",
-      "http": 200
-    },
-    {
-      "id": "keybank-select-500",
-      "http": 200
+      "id": "bybit-card-welcome-120",
+      "http": 403
     }
   ],
   "total_deals": 64
