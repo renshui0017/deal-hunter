@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-18T09:31:19Z",
+  "run_at": "2026-11-18T10:25:20Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -29,73 +29,68 @@
     {
       "name": "Gemini API 定价页",
       "url": "https://ai.google.dev/gemini-api/docs/pricing",
-      "note": "HTTP 状态变化：error → 200"
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
     },
     {
       "name": "Anthropic 定价页",
       "url": "https://www.anthropic.com/pricing",
-      "note": "HTTP 状态变化：error → 200"
-    },
-    {
-      "name": "OpenAI API 定价页",
-      "url": "https://openai.com/api/pricing/",
-      "note": "HTTP 状态变化：error → 403"
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
     },
     {
       "name": "GitHub Student Pack",
       "url": "https://education.github.com/pack",
-      "note": "HTTP 状态变化：error → 200"
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
     },
     {
       "name": "Oracle Cloud 免费层",
       "url": "https://www.oracle.com/cloud/free/",
-      "note": "HTTP 状态变化：error → 200"
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
     },
     {
       "name": "Cloudflare 免费计划",
       "url": "https://www.cloudflare.com/plans/free/",
-      "note": "HTTP 状态变化：error → 200"
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
     }
   ],
   "link_checks": [
     {
-      "id": "uupay-virtual-card",
+      "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "icbc-asia-supermarket-15",
+      "id": "bydfi-ai-token-fiesta",
       "http": 200
     },
     {
-      "id": "midjourney-annual-20off",
+      "id": "suno-free-plan-50",
       "http": 200
     },
     {
-      "id": "asentum-testnet-xp",
+      "id": "openart-90-credits",
       "http": 200
     },
     {
-      "id": "monolith-swan-holding",
+      "id": "voibe-bfcm26",
       "http": 200
     },
     {
-      "id": "chase-total-checking-400",
+      "id": "sofi-checking-400",
+      "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "oracle-always-free",
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
-      "http": 200
-    },
-    {
-      "id": "keybank-select-500",
-      "http": 200
-    },
-    {
-      "id": "aws-free-plan-200",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     }
   ],
