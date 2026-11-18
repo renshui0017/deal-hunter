@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:54:35Z",
+  "updated_at": "2026-11-18T19:24:50Z",
   "deals": [
     {
       "category": "ai",
@@ -29,7 +29,7 @@
       "value_score": 90,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 17:01 UTC"
+      "last_checked": "2026-11-18 19:24 UTC"
     },
     {
       "category": "software",
@@ -57,7 +57,7 @@
       "value_score": 90,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-18 17:01 UTC"
+      "last_checked": "2026-11-18 19:24 UTC"
     },
     {
       "category": "ai",
@@ -86,7 +86,7 @@
       "value_score": 88,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-18 17:01 UTC"
+      "last_checked": "2026-11-18 19:24 UTC"
     },
     {
       "category": "bank",
@@ -462,7 +462,7 @@
       "value_score": 65,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 17:01 UTC"
+      "last_checked": "2026-11-18 19:24 UTC"
     },
     {
       "category": "crypto",
@@ -546,7 +546,7 @@
       "value_score": 65,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 17:01 UTC"
+      "last_checked": "2026-11-18 19:24 UTC"
     },
     {
       "category": "ai",
@@ -966,7 +966,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 16:31 UTC"
+      "last_checked": "2026-11-18 19:24 UTC"
     },
     {
       "category": "crypto",
@@ -994,7 +994,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-18 16:31 UTC"
+      "last_checked": "2026-11-18 19:24 UTC"
     },
     {
       "category": "crypto",
