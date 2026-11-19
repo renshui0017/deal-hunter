@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-19T12:20:59Z",
+  "run_at": "2026-11-19T12:51:17Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -14,7 +14,7 @@
     {
       "name": "Reddit r/CryptoAirdrop",
       "ok": false,
-      "error": "HTTP 404"
+      "error": "HTTP 429"
     },
     {
       "name": "free-nodes releases",
@@ -54,43 +54,43 @@
   ],
   "link_checks": [
     {
-      "id": "appsumo-black-friday-2026",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     },
     {
-      "id": "other-free-nodes-zhuhaiuk",
+      "id": "uupay-virtual-card",
       "http": 200
     },
     {
-      "id": "mexc-daily-checkin-s2",
+      "id": "icbc-asia-supermarket-15",
       "http": 200
     },
     {
-      "id": "bydfi-fiat-fiesta-nov26",
+      "id": "asentum-testnet-xp",
       "http": 200
     },
     {
-      "id": "bitunix-new-user-rewards",
+      "id": "monolith-swan-holding",
       "http": 200
     },
     {
-      "id": "ai-qiniu-conatus-2026",
+      "id": "ai-gemini-4-hydrogen-free",
       "http": 200
     },
     {
-      "id": "chase-total-checking-400",
+      "id": "keybank-select-500",
       "http": 200
     },
     {
-      "id": "oracle-always-free",
+      "id": "aws-free-plan-200",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "perplexity-edu-pro-half",
       "http": 200
     }
   ],
