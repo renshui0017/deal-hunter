@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-19T06:03:26Z",
+  "run_at": "2026-11-19T06:33:43Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -54,43 +54,43 @@
   ],
   "link_checks": [
     {
-      "id": "bingx-winter-deposit-nov26",
+      "id": "appsumo-black-friday-2026",
       "http": 200
     },
     {
-      "id": "grass-stage2-usdc-claim",
+      "id": "other-free-nodes-zhuhaiuk",
       "http": 200
     },
     {
-      "id": "dbs-treasures-hk-53800",
+      "id": "mexc-daily-checkin-s2",
       "http": 200
     },
     {
-      "id": "railway-free-vm-ssh",
+      "id": "bydfi-fiat-fiesta-nov26",
       "http": 200
     },
     {
-      "id": "htx-mapo-bonanza-nov26",
+      "id": "bitunix-new-user-rewards",
       "http": 200
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "sofi-checking-400",
+      "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
-      "http": 200
-    },
-    {
-      "id": "ai-ant-ling-32-flash-free",
-      "http": 200
-    },
-    {
-      "id": "perplexity-edu-pro-half",
+      "id": "aster-stage6-claim",
       "http": 200
     }
   ],
