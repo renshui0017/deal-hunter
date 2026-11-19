@@ -512,3 +512,9 @@ fleet status updated 2026-11-19T22:46:03Z
 curl: (22) The requested URL returned error: 404
 mirror upload failed: fleet-status.json
 fleet status updated 2026-11-19T23:01:26Z
+curl: (35) TLS connect error: error:0A000126:SSL routines::unexpected eof while reading
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-19T23:16:34Z
+curl: (22) The requested URL returned error: 404
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-19T23:31:42Z
