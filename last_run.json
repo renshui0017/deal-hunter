@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-20T20:27:11Z",
+  "run_at": "2026-11-20T20:57:48Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -39,7 +39,7 @@
     {
       "name": "OpenAI API 定价页",
       "url": "https://openai.com/api/pricing/",
-      "note": "HTTP 状态变化：403 → 200"
+      "note": "页面内容有变动，请人工查看是否有新优惠或规则变化"
     },
     {
       "name": "GitHub Student Pack",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "suno-free-plan-50",
+      "id": "leonardo-leo20",
       "http": 200
     },
     {
-      "id": "openart-90-credits",
+      "id": "kalos-testnet-points",
       "http": 200
     },
     {
-      "id": "voibe-bfcm26",
+      "id": "hsbc-hk-mainland-dining-3pct",
       "http": 200
     },
     {
-      "id": "allscale-points",
+      "id": "deskrest-lifetime-5",
+      "http": 403
+    },
+    {
+      "id": "ai-gemini-4-hydrogen-free",
       "http": 200
     },
     {
-      "id": "ai-qiniu-conatus-2026",
+      "id": "keybank-select-500",
       "http": 200
     },
     {
-      "id": "chase-total-checking-400",
+      "id": "aws-free-plan-200",
       "http": 200
     },
     {
-      "id": "oracle-always-free",
+      "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "perplexity-edu-pro-half",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
-      "http": 200
-    },
-    {
-      "id": "grass-stage2-usdc-claim",
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     }
   ],
