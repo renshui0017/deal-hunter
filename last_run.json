@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-20T00:06:51Z",
+  "run_at": "2026-11-20T00:37:08Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -24,7 +24,7 @@
     }
   ],
   "new_items": 0,
-  "expired_items": 1,
+  "expired_items": 0,
   "page_changes": [
     {
       "name": "Gemini API 定价页",
@@ -54,43 +54,43 @@
   ],
   "link_checks": [
     {
-      "id": "mexc-trading-carnival-nov26",
+      "id": "bydfi-ai-token-fiesta",
       "http": 200
     },
     {
-      "id": "uupay-virtual-card",
+      "id": "suno-free-plan-50",
       "http": 200
     },
     {
-      "id": "icbc-asia-supermarket-15",
+      "id": "openart-90-credits",
       "http": 200
     },
     {
-      "id": "asentum-testnet-xp",
+      "id": "voibe-bfcm26",
       "http": 200
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "sofi-checking-400",
+      "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
+      "id": "aster-stage6-claim",
       "http": 200
     },
     {
-      "id": "ai-ant-ling-32-flash-free",
-      "http": 200
-    },
-    {
-      "id": "perplexity-edu-pro-half",
-      "http": 200
-    },
-    {
-      "id": "midjourney-annual-20off",
+      "id": "allscale-points",
       "http": 200
     }
   ],
