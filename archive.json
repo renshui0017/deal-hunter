@@ -1,3 +1,32 @@
 {
-  "archived": []
+  "archived": [
+    {
+      "category": "crypto",
+      "conditions": "需为合格合伙社区钱包；在 11-19 截止的窗口内连续 7 天持有至少 1000 sSwanUSD；多投不增加份额",
+      "cost_type": "需要充值",
+      "end": "2026-11-19",
+      "id": "monolith-swan-holding",
+      "name": "Monolith Market 持仓活动（瓜分 10 万 SWAN）",
+      "official_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "regions": [
+        "全球"
+      ],
+      "risk": "需持有 1000 sSwanUSD，有价格波动与智能合约风险；窗口 11-19 截止，时间紧迫；多投不加分，不要超额投入 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "Bitrue 11月空投日历（引 airdrops.io 观察名单）",
+      "source_link": "https://www.bitrue.com/blog/upcoming-crypto-airdrops-november-2026",
+      "start": null,
+      "status": "expired",
+      "steps": [
+        "确认钱包属于合格合伙社区",
+        "持有 ≥1000 sSwanUSD 满连续 7 天",
+        "等待 SWAN 分配"
+      ],
+      "summary": "在启动窗口内连续 7 天持有 ≥1000 sSwanUSD 的合格合伙社区钱包，平分 10 万 SWAN",
+      "value": "10 万 SWAN 由合格钱包平分，单人价值视参与人数而定",
+      "value_score": 50,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false,
+      "last_checked": "2026-11-19 21:09 UTC"
+    }
+  ]
 }
