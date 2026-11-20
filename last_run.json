@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-20T03:58:29Z",
+  "run_at": "2026-11-20T04:28:59Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -54,43 +54,43 @@
   ],
   "link_checks": [
     {
-      "id": "leonardo-leo20",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     },
     {
-      "id": "kalos-testnet-points",
+      "id": "railway-free-vm-ssh",
       "http": 200
     },
     {
-      "id": "hsbc-hk-mainland-dining-3pct",
+      "id": "appsumo-black-friday-2026",
       "http": 200
     },
     {
-      "id": "deskrest-lifetime-5",
-      "http": 403
-    },
-    {
-      "id": "ai-qiniu-conatus-2026",
+      "id": "htx-mapo-bonanza-nov26",
       "http": 200
     },
     {
-      "id": "chase-total-checking-400",
+      "id": "ai-gemini-4-hydrogen-free",
       "http": 200
     },
     {
-      "id": "oracle-always-free",
+      "id": "keybank-select-500",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "aws-free-plan-200",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "grass-stage2-usdc-claim",
+      "id": "perplexity-edu-pro-half",
+      "http": 200
+    },
+    {
+      "id": "mexc-trading-carnival-nov26",
       "http": 200
     }
   ],
