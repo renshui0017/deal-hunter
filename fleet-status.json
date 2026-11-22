@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T09:05:13Z",
+  "updated_at": "2026-11-22T09:20:21Z",
   "items": {
-    "instabox": {"status": "attention", "detail": "up 1 week, 23 hours, 51 minutes；xray none；代理端口 listening；采集循环 stopped"},
+    "instabox": {"status": "attention", "detail": "up 1 week, 1 day, 6 minutes；xray none；代理端口 listening；采集循环 stopped"},
     "cloady": {"status": "online", "detail": "usw-node 在线（404 为代理节点正常响应）；白嫖雷达在线"},
     "lxi": {"status": "online", "detail": "首页 HTTP 200，配置 HTTP 200"},
     "tinkerhost": {"status": "offline", "detail": "HTTP 000000，HTTPS 000000"},
