@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T04:22:57Z",
+  "updated_at": "2026-11-22T04:53:11Z",
   "deals": [
     {
       "category": "ai",
@@ -29,7 +29,7 @@
       "value_score": 90,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:51 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "software",
@@ -57,7 +57,7 @@
       "value_score": 90,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-22 02:51 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "ai",
@@ -433,7 +433,7 @@
       "value_score": 70,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:51 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "crypto",
@@ -490,7 +490,7 @@
       "value_score": 65,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:51 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "ucard",
@@ -518,7 +518,7 @@
       "value_score": 65,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:51 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "bank",
@@ -630,7 +630,7 @@
       "value_score": 60,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:51 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "crypto",
@@ -1022,7 +1022,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:21 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "ai",
@@ -1050,7 +1050,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:21 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "software",
@@ -1078,7 +1078,7 @@
       "value_score": 50,
       "verified_at": "2026-11-13",
       "official_link_verified": true,
-      "last_checked": "2026-11-22 02:21 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "crypto",
@@ -1134,7 +1134,7 @@
       "value_score": 45,
       "verified_at": "2026-11-13",
       "official_link_verified": false,
-      "last_checked": "2026-11-22 02:21 UTC"
+      "last_checked": "2026-11-22 04:53 UTC"
     },
     {
       "category": "ai",
