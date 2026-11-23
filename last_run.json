@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-23T05:26:33Z",
+  "run_at": "2026-11-23T06:13:15Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "railway-free-vm-ssh",
+      "id": "mexc-daily-checkin-s2",
       "http": 200
     },
     {
-      "id": "appsumo-black-friday-2026",
+      "id": "bydfi-fiat-fiesta-nov26",
       "http": 200
     },
     {
-      "id": "other-free-nodes-zhuhaiuk",
+      "id": "bitunix-new-user-rewards",
       "http": 200
     },
     {
-      "id": "htx-mapo-bonanza-nov26",
+      "id": "uupay-virtual-card",
       "http": 200
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "sofi-checking-400",
+      "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
+      "id": "aster-stage6-claim",
       "http": 200
     },
     {
-      "id": "ai-ant-ling-32-flash-free",
-      "http": 200
-    },
-    {
-      "id": "perplexity-edu-pro-half",
-      "http": 200
-    },
-    {
-      "id": "mexc-trading-carnival-nov26",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     }
   ],
