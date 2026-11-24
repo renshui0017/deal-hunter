@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-24T22:50:35Z",
+  "run_at": "2026-11-24T23:56:44Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -9,7 +9,7 @@
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "HTTP 429"
+      "error": "HTTP 404"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "github-student-pack",
+      "id": "other-free-nodes-zhuhaiuk",
       "http": 200
     },
     {
-      "id": "kalos-testnet-points",
+      "id": "mexc-daily-checkin-s2",
       "http": 200
     },
     {
-      "id": "hsbc-hk-mainland-dining-3pct",
+      "id": "bydfi-fiat-fiesta-nov26",
       "http": 200
     },
     {
-      "id": "deskrest-lifetime-5",
-      "http": 403
-    },
-    {
-      "id": "ai-qiniu-conatus-2026",
+      "id": "htx-mapo-bonanza-nov26",
       "http": 200
     },
     {
-      "id": "chase-total-checking-400",
+      "id": "ai-gemini-4-hydrogen-free",
       "http": 200
     },
     {
-      "id": "oracle-always-free",
+      "id": "keybank-select-500",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "aws-free-plan-200",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "grass-stage2-usdc-claim",
+      "id": "perplexity-edu-pro-half",
+      "http": 200
+    },
+    {
+      "id": "bitunix-new-user-rewards",
       "http": 200
     }
   ],
