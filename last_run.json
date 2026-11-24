@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-24T22:19:46Z",
+  "run_at": "2026-11-24T22:50:35Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -9,7 +9,7 @@
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "HTTP 404"
+      "error": "HTTP 429"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "voibe-bfcm26",
-      "http": 200
-    },
-    {
-      "id": "allscale-points",
-      "http": 200
-    },
-    {
-      "id": "leonardo-leo20",
-      "http": 200
-    },
-    {
-      "id": "google-ai-pro-student-year",
-      "http": 200
-    },
-    {
       "id": "github-student-pack",
-      "http": "error: HTTPSConnectionPool(host='education.github.com', port=443): Read timed ou"
-    },
-    {
-      "id": "hsbc-premier-3000",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "kalos-testnet-points",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "hsbc-hk-mainland-dining-3pct",
       "http": 200
     },
     {
-      "id": "bingx-winter-deposit-nov26",
+      "id": "deskrest-lifetime-5",
+      "http": 403
+    },
+    {
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "appsumo-black-friday-2026",
+      "id": "chase-total-checking-400",
+      "http": 200
+    },
+    {
+      "id": "oracle-always-free",
+      "http": 200
+    },
+    {
+      "id": "bingx-card-spending-nov26",
+      "http": 200
+    },
+    {
+      "id": "scb-hk-priority-private",
+      "http": 200
+    },
+    {
+      "id": "grass-stage2-usdc-claim",
       "http": 200
     }
   ],
