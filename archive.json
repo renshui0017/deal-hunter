@@ -27,6 +27,34 @@
       "verified_at": "2026-11-13",
       "official_link_verified": false,
       "last_checked": "2026-11-19 21:09 UTC"
+    },
+    {
+      "category": "crypto",
+      "conditions": "需在 MEXC 活动页报名；每日交易量 2500–5000 USDT 得银币（每天最多6枚），累计 75万/100万 USDT 得金币；奖励为预测奖励金非现金",
+      "cost_type": "需要交易量",
+      "end": "2026-11-23",
+      "id": "mexc-trading-carnival-nov26",
+      "name": "MEXC Trading Carnival 预测市场嘉年华",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（部分地区受限，MEXC 不服务美国/中国大陆/香港/英国/加拿大居民）"
+      ],
+      "risk": "奖励为预测奖励金不可直接提现；高交易量门槛，勿为刷奖提高交易量；截止时间为 JST 2026-11-23 00:59 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "expired",
+      "steps": [
+        "在 MEXC App/官网打开活动页报名",
+        "在 MEXC Prediction Markets 交易达到日交易量里程碑",
+        "用银币/金币参与抽奖"
+      ],
+      "summary": "在 MEXC 预测市场交易攒银币/金币抽奖，奖池 50 万 USDT，另有 9 台 iPhone",
+      "value": "单次抽奖 10–1000 USDT 预测奖励金，头奖 iPhone Duo / iPhone 18 Pro Max",
+      "value_score": 60,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false,
+      "last_checked": "2026-11-23 07:44 UTC"
     }
   ]
 }
