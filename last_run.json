@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-24T23:56:44Z",
+  "run_at": "2026-11-25T00:37:28Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -9,7 +9,7 @@
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "HTTP 404"
+      "error": "HTTP 429"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -24,7 +24,7 @@
     }
   ],
   "new_items": 0,
-  "expired_items": 0,
+  "expired_items": 1,
   "page_changes": [
     {
       "name": "Gemini API 定价页",
@@ -59,45 +59,45 @@
   ],
   "link_checks": [
     {
-      "id": "other-free-nodes-zhuhaiuk",
+      "id": "uupay-virtual-card",
       "http": 200
     },
     {
-      "id": "mexc-daily-checkin-s2",
+      "id": "icbc-asia-supermarket-15",
       "http": 200
     },
     {
-      "id": "bydfi-fiat-fiesta-nov26",
+      "id": "midjourney-annual-20off",
       "http": 200
     },
     {
-      "id": "htx-mapo-bonanza-nov26",
+      "id": "asentum-testnet-xp",
       "http": 200
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "sofi-checking-400",
+      "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
+      "id": "aster-stage6-claim",
       "http": 200
     },
     {
-      "id": "ai-ant-ling-32-flash-free",
-      "http": 200
-    },
-    {
-      "id": "perplexity-edu-pro-half",
-      "http": 200
-    },
-    {
-      "id": "bitunix-new-user-rewards",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     }
   ],
-  "total_deals": 62
+  "total_deals": 61
 }

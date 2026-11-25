@@ -55,6 +55,34 @@
       "verified_at": "2026-11-13",
       "official_link_verified": false,
       "last_checked": "2026-11-23 07:44 UTC"
+    },
+    {
+      "category": "crypto",
+      "conditions": "首次在 BYDFi Buy Crypto 用银行卡或银行转账完成法币交易；返现按实际入金 5% 计算，奖池 3 万 USDT，先到先得；银行转账入金免平台费",
+      "cost_type": "需要充值",
+      "end": "2026-11-24",
+      "id": "bydfi-fiat-fiesta-nov26",
+      "name": "BYDFi 法币入金嘉年华（5% 返现 + BTC 空投）",
+      "official_link": "https://fxtextbook.com/en/crypto/bonus",
+      "regions": [
+        "全球（法币通道可用地区）"
+      ],
+      "risk": "返现奖池有限先到先得；BTC 空投需满足法币与合约交易量目标；截止时间为 JST 2026-11-24 19:00 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "FX Textbook 交易所优惠汇总",
+      "source_link": "https://fxtextbook.com/en/crypto/bonus",
+      "start": null,
+      "status": "expired",
+      "steps": [
+        "在 BYDFi 完成注册与 KYC",
+        "在 Buy Crypto 板块完成首次法币买币",
+        "满足交易量目标参与 BTC 空投"
+      ],
+      "summary": "首次用法币买币享 5% 返现（上限 300 USDT），达标交易量另有机会参与 1000 美元 BTC 空投",
+      "value": "返现最高 300 USDT/人，另有 BTC 空投抽奖",
+      "value_score": 55,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false,
+      "last_checked": "2026-11-24 23:56 UTC"
     }
   ]
 }
