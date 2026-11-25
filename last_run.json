@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-25T03:10:32Z",
+  "run_at": "2026-11-25T04:35:52Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -9,7 +9,7 @@
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "HTTP 404"
+      "error": "HTTP 429"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "github-student-pack",
+      "id": "railway-free-vm-ssh",
       "http": 200
     },
     {
-      "id": "uupay-virtual-card",
+      "id": "appsumo-black-friday-2026",
       "http": 200
     },
     {
-      "id": "icbc-asia-supermarket-15",
+      "id": "bydfi-ai-token-fiesta",
       "http": 200
     },
     {
-      "id": "midjourney-annual-20off",
+      "id": "suno-free-plan-50",
       "http": 200
     },
     {
-      "id": "asentum-testnet-xp",
+      "id": "openart-90-credits",
       "http": 200
     },
     {
-      "id": "google-ai-pro-student-year",
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "hsbc-premier-3000",
+      "id": "chase-total-checking-400",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "oracle-always-free",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "bingx-card-spending-nov26",
       "http": 200
     },
     {
-      "id": "bingx-winter-deposit-nov26",
+      "id": "scb-hk-priority-private",
       "http": 200
     }
   ],
