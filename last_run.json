@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-25T02:39:57Z",
+  "run_at": "2026-11-25T03:10:32Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -9,7 +9,7 @@
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "HTTP 429"
+      "error": "HTTP 404"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -60,42 +60,42 @@
   "link_checks": [
     {
       "id": "github-student-pack",
-      "http": "error: HTTPSConnectionPool(host='education.github.com', port=443): Read timed ou"
-    },
-    {
-      "id": "mexc-daily-checkin-s2",
       "http": 200
     },
     {
-      "id": "bitunix-new-user-rewards",
+      "id": "uupay-virtual-card",
       "http": 200
     },
     {
-      "id": "htx-mapo-bonanza-nov26",
+      "id": "icbc-asia-supermarket-15",
       "http": 200
     },
     {
-      "id": "sofi-checking-400",
-      "http": 403
-    },
-    {
-      "id": "software-firefox-vpn-unlimited",
+      "id": "midjourney-annual-20off",
       "http": 200
     },
     {
-      "id": "bybit-card-welcome-120",
-      "http": 403
-    },
-    {
-      "id": "azure-for-students-100",
+      "id": "asentum-testnet-xp",
       "http": 200
     },
     {
-      "id": "aster-stage6-claim",
+      "id": "google-ai-pro-student-year",
       "http": 200
     },
     {
-      "id": "dbs-treasures-hk-53800",
+      "id": "hsbc-premier-3000",
+      "http": 200
+    },
+    {
+      "id": "standx-dusd-claim",
+      "http": 200
+    },
+    {
+      "id": "mexc-global-card",
+      "http": 200
+    },
+    {
+      "id": "bingx-winter-deposit-nov26",
       "http": 200
     }
   ],
