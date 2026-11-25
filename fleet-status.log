@@ -945,3 +945,14 @@ fleet status updated 2026-11-25T11:39:07Z
 curl: (22) The requested URL returned error: 503
 mirror upload failed: fleet-status.json
 fleet status updated 2026-11-25T12:30:44Z
+curl: (22) The requested URL returned error: 503
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-25T12:45:57Z
+curl: (22) The requested URL returned error: 503
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-25T13:01:15Z
+ssh_dispatch_run_fatal: Connection to 48.202.91.176 port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
