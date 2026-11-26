@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-26T04:34:45Z",
+  "run_at": "2026-11-26T05:05:02Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "leonardo-leo20",
+      "id": "hsbc-hk-mainland-dining-3pct",
       "http": 200
     },
     {
-      "id": "kalos-testnet-points",
+      "id": "deskrest-lifetime-5",
+      "http": 403
+    },
+    {
+      "id": "sofi-checking-400",
+      "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "aster-stage6-claim",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     },
     {
-      "id": "ai-ant-ling-32-flash-free",
+      "id": "mexc-daily-checkin-s2",
       "http": 200
     },
     {
-      "id": "perplexity-edu-pro-half",
-      "http": 200
-    },
-    {
-      "id": "grass-stage2-usdc-claim",
-      "http": 200
-    },
-    {
-      "id": "other-free-nodes-zhuhaiuk",
-      "http": 200
-    },
-    {
-      "id": "midjourney-annual-20off",
+      "id": "asentum-testnet-xp",
       "http": 200
     }
   ],
