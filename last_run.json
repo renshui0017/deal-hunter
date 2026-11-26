@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-26T10:37:43Z",
+  "run_at": "2026-11-26T11:08:00Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "hsbc-hk-mainland-dining-3pct",
+      "id": "bydfi-ai-token-fiesta",
       "http": 200
     },
     {
-      "id": "deskrest-lifetime-5",
-      "http": 403
-    },
-    {
-      "id": "google-ai-pro-student-year",
+      "id": "htx-mapo-bonanza-nov26",
       "http": 200
     },
     {
-      "id": "github-student-pack",
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "hsbc-premier-3000",
+      "id": "chase-total-checking-400",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "oracle-always-free",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "bingx-card-spending-nov26",
       "http": 200
     },
     {
-      "id": "bingx-winter-deposit-nov26",
+      "id": "scb-hk-priority-private",
       "http": 200
     },
     {
-      "id": "bitunix-new-user-rewards",
+      "id": "railway-free-vm-ssh",
       "http": 200
     },
     {
-      "id": "uupay-virtual-card",
+      "id": "appsumo-black-friday-2026",
+      "http": 200
+    },
+    {
+      "id": "icbc-asia-supermarket-15",
       "http": 200
     }
   ],
