@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-26T06:45:51Z",
+  "run_at": "2026-11-26T08:36:21Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -14,7 +14,7 @@
     {
       "name": "Reddit r/CryptoAirdrop",
       "ok": false,
-      "error": "HTTP 404"
+      "error": "HTTP 429"
     },
     {
       "name": "free-nodes releases",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "bydfi-ai-token-fiesta",
+      "id": "suno-free-plan-50",
       "http": 200
     },
     {
-      "id": "htx-mapo-bonanza-nov26",
+      "id": "openart-90-credits",
       "http": 200
     },
     {
-      "id": "google-ai-pro-student-year",
+      "id": "ai-qiniu-conatus-2026",
       "http": 200
     },
     {
-      "id": "github-student-pack",
+      "id": "chase-total-checking-400",
       "http": 200
     },
     {
-      "id": "hsbc-premier-3000",
+      "id": "oracle-always-free",
       "http": 200
     },
     {
-      "id": "standx-dusd-claim",
+      "id": "bingx-card-spending-nov26",
       "http": 200
     },
     {
-      "id": "mexc-global-card",
+      "id": "scb-hk-priority-private",
       "http": 200
     },
     {
-      "id": "bingx-winter-deposit-nov26",
+      "id": "railway-free-vm-ssh",
       "http": 200
     },
     {
-      "id": "bitunix-new-user-rewards",
+      "id": "appsumo-black-friday-2026",
       "http": 200
     },
     {
-      "id": "uupay-virtual-card",
+      "id": "icbc-asia-supermarket-15",
       "http": 200
     }
   ],
