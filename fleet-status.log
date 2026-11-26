@@ -990,3 +990,8 @@ fleet status updated 2026-11-26T06:48:00Z
 fleet status updated 2026-11-26T07:03:13Z
 fleet status updated 2026-11-26T08:38:33Z
 fleet status updated 2026-11-26T08:53:41Z
+curl: (22) The requested URL returned error: 502
+mirror upload failed: fleet-status.json
+fleet status updated 2026-11-26T09:09:19Z
+fleet status updated 2026-11-26T09:26:51Z
+fleet status updated 2026-11-26T09:42:00Z
