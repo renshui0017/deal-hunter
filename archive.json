@@ -83,6 +83,34 @@
       "verified_at": "2026-11-13",
       "official_link_verified": false,
       "last_checked": "2026-11-24 23:56 UTC"
+    },
+    {
+      "category": "crypto",
+      "conditions": "新用户注册并累计 MAPO 现货交易量 ≥50 USDT；首单交易者累计 ≥100 USDT 另得约 $2；仅计收手续费的现货交易量；奖励于活动结束后 14 个工作日内发放",
+      "cost_type": "需要交易量",
+      "end": "2026-11-26",
+      "id": "htx-mapo-bonanza-nov26",
+      "name": "HTX MAPO Bonanza 交易瓜分 1 万美元",
+      "official_link": "https://www.stos09.com/support/35048728233718/",
+      "regions": [
+        "全球（HTX 可用地区）"
+      ],
+      "risk": "单人奖励仅约 $5，MAPO 价格波动大；零费率/返佣交易不计入交易量；活动时间 11-12 10:00 UTC 至 11-26 10:00 UTC 官方活动页直链待确认，当前链接为可信汇总页，请以官网为准。",
+      "source": "HTX 官方公告（stos09 支持站）",
+      "source_link": "https://www.stos09.com/support/35048728233718/",
+      "start": "2026-11-12",
+      "status": "expired",
+      "steps": [
+        "注册 HTX 账号",
+        "现货交易 MAPO 达到 50 USDT 累计交易量",
+        "等待空投发放（14 个工作日内）"
+      ],
+      "summary": "交易 MAPO 现货瓜分 9226469 MAPO（约 1 万美元），新用户交易 ≥50 USDT 得约 $5 空投",
+      "value": "新用户约 $5/人，另有首单交易 $2 空投及交易排行奖池",
+      "value_score": 45,
+      "verified_at": "2026-11-13",
+      "official_link_verified": false,
+      "last_checked": "2026-11-26 23:09 UTC"
     }
   ]
 }
