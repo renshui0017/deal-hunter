@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-11-27T10:22:45Z",
+  "run_at": "2026-11-27T10:53:05Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "kalos-testnet-points",
+      "id": "hsbc-hk-mainland-dining-3pct",
       "http": 200
     },
     {
-      "id": "ai-qiniu-conatus-2026",
+      "id": "ai-gemini-4-hydrogen-free",
       "http": 200
     },
     {
-      "id": "chase-total-checking-400",
+      "id": "keybank-select-500",
       "http": 200
     },
     {
-      "id": "oracle-always-free",
+      "id": "aws-free-plan-200",
       "http": 200
     },
     {
-      "id": "bingx-card-spending-nov26",
+      "id": "ai-ant-ling-32-flash-free",
       "http": 200
     },
     {
-      "id": "scb-hk-priority-private",
+      "id": "perplexity-edu-pro-half",
       "http": 200
     },
     {
-      "id": "railway-free-vm-ssh",
+      "id": "grass-stage2-usdc-claim",
       "http": 200
     },
     {
-      "id": "appsumo-black-friday-2026",
+      "id": "other-free-nodes-zhuhaiuk",
       "http": 200
     },
     {
-      "id": "icbc-asia-supermarket-15",
+      "id": "midjourney-annual-20off",
       "http": 200
     },
     {
-      "id": "bydfi-ai-token-fiesta",
+      "id": "suno-free-plan-50",
       "http": 200
     }
   ],
