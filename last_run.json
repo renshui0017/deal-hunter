@@ -1,15 +1,15 @@
 {
-  "run_at": "2026-11-27T20:58:02Z",
+  "run_at": "2026-11-27T22:39:32Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
       "ok": false,
-      "error": "HTTP 404"
+      "error": "HTTP 429"
     },
     {
       "name": "Reddit r/beermoney",
       "ok": false,
-      "error": "HTTP 429"
+      "error": "HTTP 404"
     },
     {
       "name": "Reddit r/CryptoAirdrop",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "allscale-points",
+      "id": "leonardo-leo20",
       "http": 200
     },
     {
-      "id": "ai-gemini-4-hydrogen-free",
+      "id": "sofi-checking-400",
+      "http": 403
+    },
+    {
+      "id": "software-firefox-vpn-unlimited",
       "http": 200
     },
     {
-      "id": "keybank-select-500",
+      "id": "bybit-card-welcome-120",
+      "http": 403
+    },
+    {
+      "id": "azure-for-students-100",
       "http": 200
     },
     {
-      "id": "aws-free-plan-200",
+      "id": "aster-stage6-claim",
       "http": 200
     },
     {
-      "id": "ai-ant-ling-32-flash-free",
+      "id": "dbs-treasures-hk-53800",
       "http": 200
     },
     {
-      "id": "perplexity-edu-pro-half",
+      "id": "mexc-daily-checkin-s2",
       "http": 200
     },
     {
-      "id": "grass-stage2-usdc-claim",
+      "id": "asentum-testnet-xp",
       "http": 200
     },
     {
-      "id": "other-free-nodes-zhuhaiuk",
-      "http": 200
-    },
-    {
-      "id": "midjourney-annual-20off",
-      "http": 200
-    },
-    {
-      "id": "suno-free-plan-50",
+      "id": "openart-90-credits",
       "http": 200
     }
   ],
