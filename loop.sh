@@ -7,6 +7,5 @@
 echo $$ > ~/deal-hunter/loop.pid
 while true; do
   ~/deal-hunter/run-collect.sh >> ~/deal-hunter/loop.log 2>&1
-  (python3 ~/av4-jable/jable-sync.py >> ~/av4-jable/sync.log 2>&1 || true) &
   sleep 1800
 done
