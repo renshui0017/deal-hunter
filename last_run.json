@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-11-28T03:25:38Z",
+  "run_at": "2026-11-28T04:43:50Z",
   "sources": [
     {
       "name": "Reddit r/freebies",
       "ok": false,
-      "error": "HTTP 429"
+      "error": "HTTP 404"
     },
     {
       "name": "Reddit r/beermoney",
@@ -59,43 +59,43 @@
   ],
   "link_checks": [
     {
-      "id": "deskrest-lifetime-5",
-      "http": 403
-    },
-    {
-      "id": "sofi-checking-400",
-      "http": 403
-    },
-    {
-      "id": "software-firefox-vpn-unlimited",
+      "id": "allscale-points",
       "http": 200
     },
     {
-      "id": "bybit-card-welcome-120",
-      "http": 403
-    },
-    {
-      "id": "azure-for-students-100",
+      "id": "google-ai-pro-student-year",
       "http": 200
     },
     {
-      "id": "aster-stage6-claim",
+      "id": "github-student-pack",
       "http": 200
     },
     {
-      "id": "dbs-treasures-hk-53800",
+      "id": "hsbc-premier-3000",
       "http": 200
     },
     {
-      "id": "mexc-daily-checkin-s2",
+      "id": "standx-dusd-claim",
       "http": 200
     },
     {
-      "id": "asentum-testnet-xp",
+      "id": "mexc-global-card",
       "http": 200
     },
     {
-      "id": "openart-90-credits",
+      "id": "bingx-winter-deposit-nov26",
+      "http": 200
+    },
+    {
+      "id": "bitunix-new-user-rewards",
+      "http": 200
+    },
+    {
+      "id": "uupay-virtual-card",
+      "http": 200
+    },
+    {
+      "id": "voibe-bfcm26",
       "http": 200
     }
   ],
